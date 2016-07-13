@@ -1,0 +1,37 @@
+# Your keymap
+#
+# Atom keymaps work similarly to stylesheets. Just as stylesheets use selectors
+# to apply styles to elements, Atom keymaps use selectors to associate
+# keystrokes with events in specific contexts.
+#
+# You can create a new keybinding in this file by typing "key" and then hitting
+# tab.
+#
+# Here's an example taken from Atom's built-in keymap:
+#
+# '.editor':
+#   'enter': 'editor:newline'
+#
+# 'body':
+#   'ctrl-P': 'core:move-up'
+#   'ctrl-p': 'core:move-down'
+#
+'atom-workspace atom-text-editor:not([mini])':
+  'ctrl-k': 'editor:move-line-up'
+  'ctrl-j': 'editor:move-line-down'
+'body':
+  'cmd-k l': 'pane:split-right-and-copy-active-item'
+  'cmd-k j': 'pane:split-down-and-copy-active-item'
+  'cmd-k k': 'pane:split-up-and-copy-active-item'
+  'cmd-k h': 'pane:split-left-and-copy-active-item'
+
+'atom-text-editor[data-grammar="text html htmlbars"]:not([mini])':
+    'tab': 'emmet:expand-abbreviation-with-tab'
+
+# Stop emmet from hijacking tab from snippets and autocomplete
+'atom-text-editor[data-grammar~="scss"].autocomplete-active:not([mini])':
+  'tab': 'autocomplete-plus:confirm'
+#
+# # Stop emmet from hijacking tab from snippet tab stops
+# 'atom-text-editor[data-grammar="text html basic"]:not([mini]), atom-text-editor[data-grammar~="jade"]:not([mini]), atom-text-editor[data-grammar~="css"]:not([mini]), atom-text-editor[data-grammar~="sass"]:not([mini])':
+#   'tab': 'snippets:next-tab-stop'
