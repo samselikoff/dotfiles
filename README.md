@@ -6,3 +6,4 @@ Write a script that does all this.
   - Copy dotfiles
   - `apm stars --install` (needs atom apm key)
 
+- install nvm, node
