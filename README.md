@@ -8,3 +8,4 @@ Write a script that does all this.
 
 - install nvm, node
 - moom
+- keyboard repeat fast
