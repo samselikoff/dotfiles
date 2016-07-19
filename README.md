@@ -11,9 +11,10 @@ Write a script that does all this.
 - brew install direnv tmux
 - .zshrc
 - .tmux.conf
+- Download dropbox (needed bc 1password, keyboard maestro sync)
 - keyboard repeat fast
 - download Seil, map caps -> escape
-- Download dropbox (needed bc 1password sync)
+- install Keyboard Maestro, sync w dropbox
 - Apple AppStore
   - moom
   - 1password
