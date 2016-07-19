@@ -8,7 +8,7 @@ Write a script that does all this.
 
 - install nvm, node
 - install rbenv
-- brew install direnv
+- brew install direnv tmux
 - install iterm, omyzshell, .zshrc
 - install tmux, .tmux.conf
 - keyboard repeat fast
