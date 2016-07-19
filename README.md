@@ -7,6 +7,8 @@ Write a script that does all this.
   - `apm stars --install` (needs atom apm key)
 
 - install nvm, node
+- install rbenv
+- brew install direnv
 - install iterm, omyzshell, .zshrc
 - install tmux, .tmux.conf
 - keyboard repeat fast
