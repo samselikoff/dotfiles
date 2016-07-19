@@ -9,6 +9,7 @@ Write a script that does all this.
 - install nvm, node
 - keyboard repeat fast
 - download Seil, map caps -> escape
+- Download dropbox (needed bc 1password sync)
 - Apple AppStore
   - moom
   - 1password
