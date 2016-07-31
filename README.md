@@ -8,7 +8,7 @@ Write a script that does all this.
 - install iterm, omyzshell
 - install nvm, node
 - install rbenv
-- brew install direnv tmux
+- brew install direnv tmux reattach-to-user-namespace
 - .zshrc
 - .tmux.conf
 - Download dropbox (needed bc 1password, keyboard maestro sync)
