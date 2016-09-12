@@ -1,0 +1,29 @@
+[user]
+  name = Sam Selikoff
+  email = sam.selikoff@gmail.com
+[core]
+	email = sam.selikoff@gmail.com
+	editor = atom --wait
+	excludesfile = /Users/SamSelikoff/.gitignore_global
+[color]
+	ui = true
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	br = branch
+	logg = log --graph --decorate --oneline --abbrev-commit
+	;logg = log --graph --decorate --oneline --abbrev-commit --all
+  tagg = tag -l -n1
+  ca = !git add -A && git commit
+	undo-commit = reset --soft HEAD^
+[heroku]
+	account = personal
+[url "git@github.com:"]
+    pushInsteadOf = git://github.com/
+    pushInsteadOf = https://github.com/
+[push]
+	default = current
+[pull]
+	rebase = true
+	default = current
