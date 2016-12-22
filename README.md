@@ -10,8 +10,9 @@ Write a script that does all this.
 - install rbenv
 - brew install direnv tmux reattach-to-user-namespace
 - .zshrc
-- .tmux.conf
-- Tmux Resurrect
+- Install TPM https://github.com/tmux-plugins/tpm
+- Get .tmux.conf
+- Run tpm install (bind-key + I)
 - Download dropbox (needed bc 1password, keyboard maestro sync)
 - keyboard repeat fast
 - download Seil, map caps -> escape
