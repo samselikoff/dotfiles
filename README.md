@@ -1,4 +1,4 @@
-## New laptop setup
+# New laptop setup
 
 ## Mac stuff
 - Remap CAPS to ESC
