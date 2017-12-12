@@ -10,7 +10,7 @@
 
 ## Setup terminal
 - brew cask install iterm2
-- install omyzshell
+- Install omyzshell
 - brew install direnv tmux reattach-to-user-namespace
 - Install nvm, node
 - install rbenv
