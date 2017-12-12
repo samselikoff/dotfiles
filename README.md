@@ -17,9 +17,10 @@
 - keyboard repeat fast
 - download Seil, map caps -> escape
 - install Keyboard Maestro, sync w dropbox
-- Apple AppStore
+- App store
   - moom
   - 1password
+- Spotify
 
 
 ## TODO
