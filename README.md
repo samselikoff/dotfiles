@@ -1,5 +1,6 @@
-TODO:
-Write a script that does all this.
+## New laptop setup
+
+- Install Atom
 
 - Atom setup
   - install atom
@@ -20,3 +21,8 @@ Write a script that does all this.
 - Apple AppStore
   - moom
   - 1password
+
+
+## TODO
+
+- Write a script that does as much of this as possible
