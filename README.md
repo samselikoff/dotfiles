@@ -8,11 +8,11 @@
 - Install Homebrew
 - Install Cask
 
-## Other
+## Install some apps
 - Install Dropbox (needed bc 1password, keyboard maestro sync)
 - `brew cask install keyboard-maestro`, sync w dropbox
 
-## App store
+## Install some App Store apps
 - Moom
 - 1Password 
 - Spotify
@@ -33,6 +33,9 @@
 - Install atom
 - Copy dotfiles
 - `apm stars --install` (uses atom apm key)
+
+## Install some more apps
+- Chrome
 
 --- 
 
