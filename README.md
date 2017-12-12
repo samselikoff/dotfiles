@@ -11,9 +11,7 @@
 ## Setup terminal
 - brew cask install iterm2
 - Install omyzshell
-- brew install direnv tmux reattach-to-user-namespace
-- Install nvm, node
-- install rbenv
+- brew install direnv tmux reattach-to-user-namespace nvm rbenv
 - Copy `.zshrc`
 - Install TPM https://github.com/tmux-plugins/tpm
 - Get .tmux.conf
