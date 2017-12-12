@@ -4,44 +4,52 @@
     includeCompletionsFromAllBuffers: false
   "autohide-tree-view":
     minWidth: 1
+  "bracket-matcher":
+    autocompleteBrackets: false
   core:
     disabledPackages: [
       "linter-scss-lint"
       "linter-stylelint"
       "autohide-tree-view"
-      "linter-eslint"
-      "linter-jscs"
+      "minimap"
+      "github"
     ]
     ignoredNames: [
       ".git"
       ".svn"
       ".DS_Store"
-      "bower_components"
       "node_modules"
-      "dist"
+      "bower_components"
       "tmp"
       ".bower"
       ".sass-cache"
+      "dist"
     ]
+    telemetryConsent: "limited"
     themes: [
       "atom-dark-ui"
       "atom-dark-syntax"
     ]
   editor:
     invisibles: {}
+    softWrap: true
     tabType: "soft"
   emmet: {}
   "exception-reporting":
     userId: "1fd414bd-4f7d-47c6-636e-cd290c31158b"
   "file-types":
     hbs: "text.html.htmlbars"
-  linter:
-    lintOnFly: false
+  jshint:
+    onlyConfig: true
+  "language-babel":
+    autoIndentJSX: true
+  linter: {}
   "linter-eslint": {}
   "linter-jscs":
     onlyConfig: true
   "linter-jshint":
     lintJSXFiles: true
+  "linter-ui-default": {}
   metrics:
     userId: "04e2b59bf2c9b8fcf465d9823a11c48db9b113a9"
   minimap:
@@ -52,8 +60,13 @@
   "tree-view":
     autoReveal: true
     hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
+  "vim-mode-plus":
+    notifiedCoffeeScriptNoLongerSupportedToExtendVMP: true
   welcome:
     showOnStartup: false
+  wordcount:
+    alwaysOn: true
 "source.gfm":
   editor:
     softWrap: true
