@@ -14,8 +14,7 @@
 ## Terminal config
 - Install nvm, node
 - install rbenv
-
-- .zshrc
+- Copy `.zshrc`
 - Install TPM https://github.com/tmux-plugins/tpm
 - Get .tmux.conf
 - Run tpm install (bind-key + I)
