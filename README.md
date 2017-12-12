@@ -7,11 +7,11 @@
 ## Brew
 - Install Homebrew
 - Install Cask
+
+## Setup terminal
 - brew cask install iterm2
 - install omyzshell
 - brew install direnv tmux reattach-to-user-namespace
-
-## Terminal config
 - Install nvm, node
 - install rbenv
 - Copy `.zshrc`
