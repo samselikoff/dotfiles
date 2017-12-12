@@ -12,6 +12,11 @@
 - Install Dropbox (needed bc 1password, keyboard maestro sync)
 - `brew cask install keyboard-maestro`, sync w dropbox
 
+## App store
+- Moom
+- 1Password 
+- Spotify
+
 ## Setup terminal
 - brew cask install iterm2
 - Install omyzshell
@@ -20,19 +25,14 @@
 - Install TPM https://github.com/tmux-plugins/tpm
 - Get .tmux.conf
 - Run tpm install (bind-key + I)
-  
+
+## SSH keys
+- Add to Github
+
 ## Atom
 - Install atom
 - Copy dotfiles
-- `apm stars --install` (needs atom apm key)
-
- 
-## App store
-
-- Moom
-- 1Password 
-- Spotify
-
+- `apm stars --install` (uses atom apm key)
 
 --- 
 
