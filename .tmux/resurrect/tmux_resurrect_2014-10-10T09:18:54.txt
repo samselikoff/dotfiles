@@ -1,0 +1,38 @@
+pane	3	2	:patch	1	:*	1	:/Users/SamSelikoff/Projects/patch	1	zsh	:
+pane	3	2	:patch	1	:*	2	:/Users/SamSelikoff/Projects/patch	0	zsh	:
+pane	OSS	1	:talks	0	:#	1	:/Users/SamSelikoff/Projects/talks	1	zsh	:
+pane	OSS	2	:samselikoff	1	:*	1	:/Users/SamSelikoff/Projects/samselikoff	0	zsh	:
+pane	OSS	2	:samselikoff	1	:*	2	:/Users/SamSelikoff/Projects/samselikoff	1	zsh	:
+pane	OSS	3	:list-view	0	:#-	1	:/Users/SamSelikoff/Projects/github/list-view	1	zsh	:
+pane	OSS	3	:list-view	0	:#-	2	:/Users/SamSelikoff/Projects/github/list-view	0	zsh	:
+pane	OSS	3	:list-view	0	:#-	3	:/Users/SamSelikoff/Projects/github/list-view	0	zsh	:
+pane	OSS	4	:ember-website	0	:#	1	:/Users/SamSelikoff/Projects/github/ember/website	1	zsh	:
+pane	OSS	5	:ember-cli-pagination	0	:#	1	:/Users/SamSelikoff/Projects/github/ember-cli-pagination	1	zsh	:
+pane	OSS	5	:ember-cli-pagination	0	:#	2	:/Users/SamSelikoff/Projects/github/ember-cli-pagination	0	zsh	:
+pane	OSS	6	:EmberAdmin	0	:#	1	:/Users/SamSelikoff/Projects/github/ember-admin-bootstrap	1	zsh	:
+pane	OSS	6	:EmberAdmin	0	:#	2	:/Users/SamSelikoff/Projects/github/ember-admin-bootstrap	0	zsh	:
+pane	TED	1	:Roadrunner	0	:-	1	:/Users/SamSelikoff/TED/roadrunner	1	zsh	:
+pane	TED	1	:Roadrunner	0	:-	2	:/Users/SamSelikoff/TED/roadrunner	0	zsh	:
+pane	TED	2	:Hoover	0	: 	1	:/Users/SamSelikoff/TED/hoover/ember	1	zsh	:
+pane	TED	2	:Hoover	0	: 	2	:/Users/SamSelikoff/TED/hoover	0	zsh	:
+pane	TED	2	:Hoover	0	: 	3	:/Users/SamSelikoff/TED/hoover/rails	0	zsh	:
+pane	TED	2	:Hoover	0	: 	4	:/Users/SamSelikoff/TED/hoover/rails	0	zsh	:
+pane	TED	3	:TED Ed	0	: 	1	:/Users/SamSelikoff/TED/TEDEd	1	zsh	:
+pane	TED	3	:TED Ed	0	: 	2	:/Users/SamSelikoff/TED/TEDEd	0	zsh	:
+pane	TED	4	:ember-cli-ted-bootstrap	0	: 	1	:/Users/SamSelikoff/TED/ember-cli-ted-bootstrap	1	zsh	:
+pane	TED	5	:ted-ed-lesson-creator	1	:*	1	:/Users/SamSelikoff/TED/ted-ed-lesson-creator	1	zsh	:
+pane	TED	5	:ted-ed-lesson-creator	1	:*	2	:/Users/SamSelikoff/TED/ted-ed-lesson-creator	0	zsh	:
+pane	TED	5	:ted-ed-lesson-creator	1	:*	3	:/Users/SamSelikoff/Dropbox/Public/ted-ed-creator-fixed-nav	0	zsh	:
+window	3	2	1	:*	a0cd,204x58,0,0[204x29,0,0,56,204x28,0,30,57]
+window	OSS	1	0	:#	ce9e,204x58,0,0,1
+window	OSS	2	1	:*	ef3b,204x58,0,0[204x29,0,0,2,204x28,0,30,59]
+window	OSS	3	0	:#-	c7a0,204x58,0,0[204x29,0,0,4,204x28,0,30{102x28,0,30,5,101x28,103,30,33}]
+window	OSS	4	0	:#	cea3,204x58,0,0,6
+window	OSS	5	0	:#	20c5,204x58,0,0[204x29,0,0,40,204x28,0,30,53]
+window	OSS	6	0	:#	e0c6,204x58,0,0[204x29,0,0,42,204x28,0,30,43]
+window	TED	1	0	:-	7c5a,204x58,0,0{101x58,0,0,7,102x58,102,0,8}
+window	TED	2	0	: 	79d7,204x58,0,0{97x58,0,0[97x29,0,0,9,97x28,0,30,21],106x58,98,0[106x29,98,0,20,106x28,98,30,54]}
+window	TED	3	0	: 	5ac8,204x58,0,0{102x58,0,0,13,101x58,103,0,14}
+window	TED	4	0	: 	6789,204x58,0,0,39
+window	TED	5	1	:*	6f03,204x58,0,0{102x58,0,0[102x29,0,0,47,102x28,0,30,49],101x58,103,0,48}
+state	OSS	TED

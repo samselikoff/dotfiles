@@ -1,0 +1,40 @@
+pane	0	1	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff/Projects	1	zsh	:
+pane	3	2	:patch	1	:*	1	:/Users/SamSelikoff/Projects/patch	1	zsh	:
+pane	3	2	:patch	1	:*	2	:/Users/SamSelikoff/Projects/patch	0	zsh	:
+pane	OSS	1	:talks	0	:-	1	:/Users/SamSelikoff/Projects/talks	1	zsh	:
+pane	OSS	2	:samselikoff	1	:*	1	:/Users/SamSelikoff/Projects/samselikoff	0	ruby	:ruby /Users/SamSelikoff/.rvm/gems/ruby-2.1.1/bin/jekyll serve -w AWS_ACCESS_KEY_ID=AKIAII6CHRNKAA3UUPGA AWS_SECRET_ACCESS_KEY=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 Apple_PubSub_Socket_Render=/tmp/launch-WgCuXX/Render COLORFGBG=12;8
+pane	OSS	2	:samselikoff	1	:*	2	:/Users/SamSelikoff/Projects/samselikoff	1	zsh	:
+pane	OSS	3	:list-view	0	: 	1	:/Users/SamSelikoff/Projects/github/list-view	1	zsh	:
+pane	OSS	3	:list-view	0	: 	2	:/Users/SamSelikoff/Projects/github/list-view	0	zsh	:
+pane	OSS	3	:list-view	0	: 	3	:/Users/SamSelikoff/Projects/github/list-view	0	zsh	:
+pane	OSS	4	:ember-website	0	: 	1	:/Users/SamSelikoff/Projects/github/ember/website	1	zsh	:
+pane	OSS	5	:ember-cli-pagination	0	: 	1	:/Users/SamSelikoff/Projects/github/ember-cli-pagination	1	zsh	:
+pane	OSS	5	:ember-cli-pagination	0	: 	2	:/Users/SamSelikoff/Projects/github/ember-cli-pagination	0	zsh	:
+pane	OSS	6	:EmberAdmin	0	: 	1	:/Users/SamSelikoff/Projects/github/ember-admin-bootstrap	1	zsh	:
+pane	OSS	6	:EmberAdmin	0	: 	2	:/Users/SamSelikoff/Projects/github/ember-admin-bootstrap	0	zsh	:
+pane	TED	1	:Roadrunner	0	:#-	1	:/Users/SamSelikoff/TED/roadrunner	1	zsh	:
+pane	TED	1	:Roadrunner	0	:#-	2	:/Users/SamSelikoff/TED/roadrunner	0	zsh	:
+pane	TED	2	:Hoover	0	:#	1	:/Users/SamSelikoff/TED/hoover/ember	1	zsh	:
+pane	TED	2	:Hoover	0	:#	2	:/Users/SamSelikoff/TED/hoover	0	zsh	:
+pane	TED	2	:Hoover	0	:#	3	:/Users/SamSelikoff/TED/hoover/rails	0	zsh	:
+pane	TED	2	:Hoover	0	:#	4	:/Users/SamSelikoff/TED/hoover/rails	0	zsh	:
+pane	TED	3	:TED Ed	0	:#	1	:/Users/SamSelikoff/TED/TEDEd	1	zsh	:
+pane	TED	3	:TED Ed	0	:#	2	:/Users/SamSelikoff/TED/TEDEd	0	zsh	:
+pane	TED	4	:ember-cli-ted-bootstrap	0	:#	1	:/Users/SamSelikoff/TED/ember-cli-ted-bootstrap	1	zsh	:
+pane	TED	5	:ted-ed-lesson-creator	1	:*	1	:/Users/SamSelikoff/TED/ted-ed-lesson-creator	0	zsh	:
+pane	TED	5	:ted-ed-lesson-creator	1	:*	2	:/Users/SamSelikoff/TED/ted-ed-lesson-creator	0	zsh	:
+pane	TED	5	:ted-ed-lesson-creator	1	:*	3	:/Users/SamSelikoff/Dropbox/Public/ted-ed-creator-fixed-nav	1	zsh	:
+window	0	1	1	:*	ce9d,204x58,0,0,0
+window	3	2	1	:*	5dde,204x58,0,0[204x29,0,0,1,204x28,0,30,2]
+window	OSS	1	0	:-	cea0,204x58,0,0,3
+window	OSS	2	1	:*	dde5,204x58,0,0[204x29,0,0,4,204x28,0,30,5]
+window	OSS	3	0	: 	4eae,204x58,0,0[204x29,0,0,6,204x28,0,30{102x28,0,30,7,101x28,103,30,8}]
+window	OSS	4	0	: 	cea6,204x58,0,0,9
+window	OSS	5	0	: 	a0c1,204x58,0,0[204x29,0,0,10,204x28,0,30,11]
+window	OSS	6	0	: 	a0c4,204x58,0,0[204x29,0,0,12,204x28,0,30,13]
+window	TED	1	0	:#-	56b1,204x58,0,0{101x58,0,0,14,102x58,102,0,15}
+window	TED	2	0	:#	99f7,204x58,0,0{97x58,0,0[97x29,0,0,16,97x28,0,30,17],106x58,98,0[106x29,98,0,18,106x28,98,30,19]}
+window	TED	3	0	:#	dac5,204x58,0,0{102x58,0,0,20,101x58,103,0,21}
+window	TED	4	0	:#	e781,204x58,0,0,22
+window	TED	5	1	:*	6efd,204x58,0,0{102x58,0,0[102x29,0,0,23,102x28,0,30,24],101x58,103,0,25}
+state	OSS	OSS

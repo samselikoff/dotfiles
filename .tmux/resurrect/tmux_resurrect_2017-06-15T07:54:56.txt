@@ -1,0 +1,39 @@
+pane	OSS	1	:ember-cli-mirage	0	: 	1	:/Users/SamSelikoff/Projects/ember-cli-mirage	0	zsh	:
+pane	OSS	1	:ember-cli-mirage	0	: 	2	:/Users/SamSelikoff/Projects/ember-cli-mirage	1	zsh	:
+pane	OSS	1	:ember-cli-mirage	0	: 	3	:/Users/SamSelikoff/Projects/ember-cli-mirage	0	zsh	:
+pane	OSS	2	:ember-cli-tachyons	0	: 	1	:/Users/SamSelikoff/Projects	0	zsh	:
+pane	OSS	2	:ember-cli-tachyons	0	: 	2	:/Users/SamSelikoff/Projects/ember-cli-tachyons	1	zsh	:
+pane	OSS	3	:ember-cli-deploy-front-end-builds-pack	0	: 	1	:/Users/SamSelikoff/Projects/github/ember-cli-deploy-front-end-builds	0	zsh	:
+pane	OSS	3	:ember-cli-deploy-front-end-builds-pack	0	: 	2	:/Users/SamSelikoff/Projects/github/ember-cli-deploy-front-end-builds	1	zsh	:
+pane	OSS	3	:ember-cli-deploy-front-end-builds-pack	0	: 	3	:/Users/SamSelikoff/Projects/github/ember-cli-deploy-front-end-builds	0	zsh	:
+pane	OSS	4	:ember-collapsible-panel	0	:-	1	:/Users/SamSelikoff/Projects/github/ember-collapsible-panel	1	zsh	:
+pane	OSS	5	:ember-cli-addon-docs	1	:*	1	:/Users/SamSelikoff/Projects/github/ember-cli-addon-docs	1	zsh	:
+pane	OSS	5	:ember-cli-addon-docs	1	:*	2	:/Users/SamSelikoff/Projects/github/ember-cli-addon-docs	0	zsh	:
+pane	base	1	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff	1	zsh	:
+pane	ember-map	1	:frontend	0	: 	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-frontend	1	zsh	:
+pane	ember-map	1	:frontend	0	: 	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-frontend	0	zsh	:
+pane	ember-map	2	:backend	0	: 	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-backend	1	zsh	:
+pane	ember-map	2	:backend	0	: 	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-backend	0	zsh	:
+pane	ember-map	3	:admin	0	:-	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-admin	1	zsh	:
+pane	ember-map	3	:admin	0	:-	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-admin	0	zsh	:
+pane	ember-map	4	:demos	1	:*	1	:/Users/SamSelikoff/Projects/Ember Map assets/demos/embermap-cms	1	zsh	:
+pane	ember-map	4	:demos	1	:*	2	:/Users/SamSelikoff/Projects/Ember Map assets/demos/embermap-cms	0	zsh	:
+pane	play	1	:persevere	0	: 	1	:/Users/SamSelikoff/Projects/persevere	1	zsh	:
+pane	play	1	:persevere	0	: 	2	:/Users/SamSelikoff/Projects/persevere	0	zsh	:
+pane	play	2	:card-stack	0	:-	1	:/Users/SamSelikoff/Projects/stupendous-rentals	0	zsh	:
+pane	play	2	:card-stack	0	:-	2	:/Users/SamSelikoff/Projects/stupendous-rentals	1	zsh	:
+pane	play	3	:ember-animated	1	:*	1	:/Users/SamSelikoff/Projects/ember-animated	1	zsh	:
+window	OSS	1	0	: 	bfab,318x83,0,0[318x40,0,0,1,318x42,0,41{159x42,0,41,2,158x42,160,41,24}]
+window	OSS	2	0	: 	6638,318x83,0,0[318x40,0,0,3,318x42,0,41,4]
+window	OSS	3	0	: 	3ee4,318x83,0,0[318x40,0,0,5,318x42,0,41{159x42,0,41,6,158x42,160,41,7}]
+window	OSS	4	0	:-	e1b5,318x83,0,0,26
+window	OSS	5	1	:*	3f48,318x83,0,0[318x41,0,0,27,318x41,0,42,28]
+window	base	1	1	:*	b63d,178x51,0,0,0
+window	ember-map	1	0	: 	5b12,178x51,0,0[178x25,0,0,8,178x25,0,26,9]
+window	ember-map	2	0	: 	6b84,178x51,0,0[178x25,0,0,10,178x25,0,26,11]
+window	ember-map	3	0	:-	6b87,178x51,0,0[178x25,0,0,12,178x25,0,26,13]
+window	ember-map	4	1	:*	2b88,178x51,0,0[178x25,0,0,14,178x25,0,26,20]
+window	play	1	0	: 	6b8d,178x51,0,0[178x25,0,0,16,178x25,0,26,17]
+window	play	2	0	:-	8b01,178x51,0,0[178x45,0,0,22,178x5,0,46,23]
+window	play	3	1	:*	db54,178x51,0,0,25
+state	OSS	play

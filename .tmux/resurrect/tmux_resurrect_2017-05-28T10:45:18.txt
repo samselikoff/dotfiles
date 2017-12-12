@@ -1,0 +1,29 @@
+pane	OSS	1	:ember-cli-mirage	1	:*	1	:/Users/SamSelikoff/Projects/ember-cli-mirage	1	zsh	:
+pane	base	1	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff	1	zsh	:
+pane	ember-map	1	:frontend	0	:-	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-frontend	1	zsh	:
+pane	ember-map	1	:frontend	0	:-	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-frontend	0	zsh	:
+pane	ember-map	2	:backend	0	: 	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-backend	1	zsh	:
+pane	ember-map	2	:backend	0	: 	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-backend	0	zsh	:
+pane	ember-map	3	:admin	0	: 	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-admin	1	zsh	:
+pane	ember-map	3	:admin	0	: 	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-admin	0	zsh	:
+pane	ember-map	3	:admin	0	: 	3	:/Users/SamSelikoff/Projects/ember-map/ember-map-admin	0	zsh	:
+pane	ember-map	4	:demos	1	:*	1	:/Users/SamSelikoff/Projects/Ember Map assets/demos/embermap-cms	1	zsh	:
+pane	ember-map	4	:demos	1	:*	2	:/Users/SamSelikoff/Projects/Ember Map assets/demos/embermap-cms	0	zsh	:
+pane	nimble	1	:engine	0	:-	1	:/Users/SamSelikoff/Projects/scratch/engine-test-engine	0	zsh	:
+pane	nimble	1	:engine	0	:-	2	:/Users/SamSelikoff/Projects/scratch/engine-test-engine	1	zsh	:
+pane	nimble	2	:addon	1	:*	1	:/Users/SamSelikoff/Projects/scratch/engine-test-addon	0	zsh	:
+pane	nimble	2	:addon	1	:*	2	:/Users/SamSelikoff/Projects/scratch/engine-test-addon	1	zsh	:
+pane	nimble	3	:app	0	: 	1	:/Users/SamSelikoff/Projects/scratch/engine-test-app	0	zsh	:
+pane	nimble	3	:app	0	: 	2	:/Users/SamSelikoff/Projects/scratch/engine-test-app	1	zsh	:
+pane	nimble	4	:mirage	0	: 	1	:/Users/SamSelikoff/Projects/ember-cli-mirage	1	zsh	:
+window	OSS	1	1	:*	c301,318x83,0,0,4
+window	base	1	1	:*	c2fd,318x83,0,0,0
+window	ember-map	1	0	:-	6f41,318x83,0,0[318x39,0,0,13,318x43,0,40,14]
+window	ember-map	2	0	: 	a704,318x83,0,0[318x43,0,0,15,318x39,0,44,16]
+window	ember-map	3	0	: 	de3c,318x83,0,0[318x38,0,0,17,318x44,0,39{159x44,0,39,18,158x44,160,39,19}]
+window	ember-map	4	1	:*	ff3f,318x83,0,0[318x41,0,0,31,318x41,0,42,32]
+window	nimble	1	0	:-	3f3f,318x83,0,0[318x41,0,0,21,318x41,0,42,22]
+window	nimble	2	1	:*	6702,318x83,0,0[318x43,0,0,23,318x39,0,44,24]
+window	nimble	3	0	: 	3f45,318x83,0,0[318x41,0,0,25,318x41,0,42,26]
+window	nimble	4	0	: 	e1b6,318x83,0,0,27
+state	OSS	OSS

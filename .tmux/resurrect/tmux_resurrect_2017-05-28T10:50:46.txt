@@ -1,0 +1,25 @@
+pane	5	1	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff	1	zsh	:
+pane	6	1	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff	1	zsh	:
+pane	OSS	1	:ember-cli-mirage	1	:*	1	:/Users/SamSelikoff/Projects/ember-cli-mirage	1	zsh	:
+pane	base	1	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff	1	zsh	:
+pane	ember-map	1	:frontend	0	:-	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-frontend	1	zsh	:
+pane	ember-map	1	:frontend	0	:-	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-frontend	0	zsh	:
+pane	ember-map	2	:backend	0	: 	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-backend	1	zsh	:
+pane	ember-map	2	:backend	0	: 	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-backend	0	zsh	:
+pane	ember-map	3	:admin	0	: 	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-admin	1	zsh	:
+pane	ember-map	3	:admin	0	: 	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-admin	0	zsh	:
+pane	ember-map	3	:admin	0	: 	3	:/Users/SamSelikoff/Projects/ember-map/ember-map-admin	0	zsh	:
+pane	ember-map	4	:demos	1	:*	1	:/Users/SamSelikoff/Projects/Ember Map assets/demos/embermap-cms	1	zsh	:
+pane	ember-map	4	:demos	1	:*	2	:/Users/SamSelikoff/Projects/Ember Map assets/demos/embermap-cms	0	zsh	:
+pane	play	1	:persevere	1	:*	1	:/Users/SamSelikoff/Projects/persevere	0	node	:ember AWS_ACCESS_KEY_ID=AKIAION52TXB36FPGBBQ AWS_SECRET_ACCESS_KEY=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 Apple_PubSub_Socket_Render=/private/tmp/com.apple.launchd.HtToh0siDq/Render CLOUDINARY_API_KEY=383443644468287 CLOUDINARY_API_SECRET=paQLWLv19PMwH7awOmGMfi7Qlx4
+pane	play	1	:persevere	1	:*	2	:/Users/SamSelikoff/Projects/persevere	1	zsh	:
+window	5	1	1	:*	61b6,318x83,0,0,36
+window	6	1	1	:*	61b7,318x83,0,0,37
+window	OSS	1	1	:*	c301,318x83,0,0,4
+window	base	1	1	:*	c2fd,318x83,0,0,0
+window	ember-map	1	0	:-	6f41,318x83,0,0[318x39,0,0,13,318x43,0,40,14]
+window	ember-map	2	0	: 	a704,318x83,0,0[318x43,0,0,15,318x39,0,44,16]
+window	ember-map	3	0	: 	de3c,318x83,0,0[318x38,0,0,17,318x44,0,39{159x44,0,39,18,158x44,160,39,19}]
+window	ember-map	4	1	:*	ff3f,318x83,0,0[318x41,0,0,31,318x41,0,42,32]
+window	play	1	1	:*	ff46,318x83,0,0[318x41,0,0,35,318x41,0,42,38]
+state	play	6

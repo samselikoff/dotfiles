@@ -1,0 +1,47 @@
+pane	OSS	1	:mirage	1	:*	1	:/Users/SamSelikoff/Projects/ember-cli-mirage	0	zsh	:
+pane	OSS	1	:mirage	1	:*	2	:/Users/SamSelikoff/Projects/ember-cli-mirage	1	zsh	:
+pane	OSS	1	:mirage	1	:*	3	:/Users/SamSelikoff/Projects/ember-cli-mirage	0	zsh	:
+pane	OSS	2	:samselikoff	0	:-	1	:/Users/SamSelikoff/Projects/samselikoff	1	zsh	:
+pane	OSS	2	:samselikoff	0	:-	2	:/Users/SamSelikoff/Projects/samselikoff	0	zsh	:
+pane	OSS	3	:emberjs/rfcs	0	: 	1	:/Users/SamSelikoff/Projects/github/emberjs/rfcs	1	zsh	:
+pane	OSS	4	:ember-ldoash	0	: 	1	:/Users/SamSelikoff/Projects/github/ember-lodash	0	zsh	:
+pane	OSS	4	:ember-ldoash	0	: 	2	:/Users/SamSelikoff/Projects/github/ember-lodash	1	zsh	:
+pane	OSS	5	:mirage-twiddle-wrapper	0	: 	1	:/Users/SamSelikoff/Projects/ember-cli-mirage-twiddle-wrapper	1	vim	:vim .
+pane	OSS	5	:mirage-twiddle-wrapper	0	: 	2	:/Users/SamSelikoff/Projects/ember-cli-mirage-twiddle-wrapper	0	zsh	:
+pane	OSS	5	:mirage-twiddle-wrapper	0	: 	3	:/Users/SamSelikoff/Projects/ember-cli-mirage-twiddle-wrapper	0	zsh	:
+pane	OSS	6	:modal-dialog	0	: 	1	:/Users/SamSelikoff/Projects/github	1	zsh	:
+pane	OSS	7	:scratch	0	: 	1	:/Users/SamSelikoff/Projects/github/sample-ember-engine-with-truth-helpers	0	zsh	:
+pane	OSS	7	:scratch	0	: 	2	:/Users/SamSelikoff/Projects/github	1	zsh	:
+pane	base	1	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff	1	zsh	:
+pane	ember-map	1	:frontend	0	:-	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-frontend	1	zsh	:
+pane	ember-map	1	:frontend	0	:-	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-frontend	0	zsh	:
+pane	ember-map	2	:backend	0	: 	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-backend	1	zsh	:
+pane	ember-map	2	:backend	0	: 	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-backend	0	zsh	:
+pane	ember-map	3	:admin	0	: 	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-admin	1	zsh	:
+pane	ember-map	3	:admin	0	: 	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-admin	0	zsh	:
+pane	ember-map	3	:admin	0	: 	3	:/Users/SamSelikoff/Projects/ember-map/ember-map-admin	0	zsh	:
+pane	ember-map	4	:demos	1	:*	1	:/Users/SamSelikoff/Projects/Ember Map assets/demos/embermap-cms	1	zsh	:
+pane	nimble	1	:engine	0	:-	1	:/Users/SamSelikoff/Projects/scratch/engine-test-engine	0	zsh	:
+pane	nimble	1	:engine	0	:-	2	:/Users/SamSelikoff/Projects/scratch/engine-test-engine	1	zsh	:
+pane	nimble	2	:addon	1	:*	1	:/Users/SamSelikoff/Projects/scratch/engine-test-addon	0	zsh	:
+pane	nimble	2	:addon	1	:*	2	:/Users/SamSelikoff/Projects/scratch/engine-test-addon	1	zsh	:
+pane	nimble	3	:app	0	: 	1	:/Users/SamSelikoff/Projects/scratch/engine-test-app	0	zsh	:
+pane	nimble	3	:app	0	: 	2	:/Users/SamSelikoff/Projects/scratch/engine-test-app	1	zsh	:
+pane	nimble	4	:mirage	0	: 	1	:/Users/SamSelikoff/Projects/ember-cli-mirage	1	zsh	:
+window	OSS	1	1	:*	041d,318x83,0,0[318x41,0,0,1,318x41,0,42{159x41,0,42,28,158x41,160,42,29}]
+window	OSS	2	0	:-	0d36,318x83,0,0[318x41,0,0,2,318x41,0,42,3]
+window	OSS	3	0	: 	c301,318x83,0,0,4
+window	OSS	4	0	: 	8d3d,318x83,0,0[318x41,0,0,5,318x41,0,42,6]
+window	OSS	5	0	: 	edc7,318x83,0,0[318x42,0,0,7,318x40,0,43{159x40,0,43,8,158x40,160,43,9}]
+window	OSS	6	0	: 	61af,318x83,0,0,10
+window	OSS	7	0	: 	7f3e,318x83,0,0[318x41,0,0,11,318x41,0,42,12]
+window	base	1	1	:*	c2fd,318x83,0,0,0
+window	ember-map	1	0	:-	6f41,318x83,0,0[318x39,0,0,13,318x43,0,40,14]
+window	ember-map	2	0	: 	a704,318x83,0,0[318x43,0,0,15,318x39,0,44,16]
+window	ember-map	3	0	: 	de3c,318x83,0,0[318x38,0,0,17,318x44,0,39{159x44,0,39,18,158x44,160,39,19}]
+window	ember-map	4	1	:*	e1af,318x83,0,0,20
+window	nimble	1	0	:-	3f3f,318x83,0,0[318x41,0,0,21,318x41,0,42,22]
+window	nimble	2	1	:*	6702,318x83,0,0[318x43,0,0,23,318x39,0,44,24]
+window	nimble	3	0	: 	3f45,318x83,0,0[318x41,0,0,25,318x41,0,42,26]
+window	nimble	4	0	: 	e1b6,318x83,0,0,27
+state	ember-map	OSS

@@ -1,0 +1,28 @@
+pane	OSS	1	:ember-cli-mirage	1	:*	1	:/Users/SamSelikoff/Projects/ember-cli-mirage	1	zsh	:
+pane	OSS	1	:ember-cli-mirage	1	:*	2	:/Users/SamSelikoff/Projects/ember-cli-mirage	0	zsh	:
+pane	OSS	2	:ember-cli-tachyons	0	: 	1	:/Users/SamSelikoff/Projects	0	zsh	:
+pane	OSS	2	:ember-cli-tachyons	0	: 	2	:/Users/SamSelikoff/Projects/ember-cli-tachyons	1	zsh	:
+pane	OSS	3	:ember-cli-deploy-front-end-builds-pack	0	:-	1	:/Users/SamSelikoff/Projects/github/ember-cli-deploy-front-end-builds	0	zsh	:
+pane	OSS	3	:ember-cli-deploy-front-end-builds-pack	0	:-	2	:/Users/SamSelikoff/Projects/github/ember-cli-deploy-front-end-builds	1	zsh	:
+pane	OSS	3	:ember-cli-deploy-front-end-builds-pack	0	:-	3	:/Users/SamSelikoff/Projects/github/ember-cli-deploy-front-end-builds	0	zsh	:
+pane	base	1	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff	1	zsh	:
+pane	ember-map	1	:frontend	0	:-	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-frontend	1	zsh	:
+pane	ember-map	1	:frontend	0	:-	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-frontend	0	zsh	:
+pane	ember-map	2	:backend	1	:*	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-backend	1	zsh	:
+pane	ember-map	2	:backend	1	:*	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-backend	0	zsh	:
+pane	ember-map	3	:admin	0	: 	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-admin	1	zsh	:
+pane	ember-map	3	:admin	0	: 	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-admin	0	zsh	:
+pane	ember-map	4	:demos	0	: 	1	:/Users/SamSelikoff/Projects/Ember Map assets/demos/embermap-cms	1	zsh	:
+pane	ember-map	4	:demos	0	: 	2	:/Users/SamSelikoff/Projects/Ember Map assets/demos/embermap-cms	0	zsh	:
+pane	play	1	:persevere	1	:*	1	:/Users/SamSelikoff/Projects/persevere	1	zsh	:
+pane	play	1	:persevere	1	:*	2	:/Users/SamSelikoff/Projects/persevere	0	zsh	:
+window	OSS	1	1	:*	6633,318x83,0,0[318x40,0,0,1,318x42,0,41,2]
+window	OSS	2	0	: 	6638,318x83,0,0[318x40,0,0,3,318x42,0,41,4]
+window	OSS	3	0	:-	3ee4,318x83,0,0[318x40,0,0,5,318x42,0,41{159x42,0,41,6,158x42,160,41,7}]
+window	base	1	1	:*	c2fd,318x83,0,0,0
+window	ember-map	1	0	:-	0d45,318x83,0,0[318x41,0,0,8,318x41,0,42,9]
+window	ember-map	2	1	:*	7f3e,318x83,0,0[318x41,0,0,11,318x41,0,42,12]
+window	ember-map	3	0	: 	7f41,318x83,0,0[318x41,0,0,13,318x41,0,42,14]
+window	ember-map	4	0	: 	ff45,318x83,0,0[318x41,0,0,16,318x41,0,42,17]
+window	play	1	1	:*	ff48,318x83,0,0[318x41,0,0,18,318x41,0,42,19]
+state	ember-map	ember-map

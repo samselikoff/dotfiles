@@ -1,0 +1,17 @@
+pane	OSS	1	:talks	0	:#-	1	:/Users/SamSelikoff/Projects/talks/5-sep2014-intro-ember/budgetr	0	zsh	:
+pane	OSS	1	:talks	0	:#-	2	:/Users/SamSelikoff/Projects/talks	1	zsh	:
+pane	OSS	2	:samselikoff	1	:*	1	:/Users/SamSelikoff/Projects/samselikoff	1	zsh	:
+pane	OSS	2	:samselikoff	1	:*	2	:/Users/SamSelikoff/Projects/samselikoff	0	zsh	:
+pane	TED	1	:Roadrunner	0	: 	1	:/Users/SamSelikoff/TED/roadrunner	1	zsh	:
+pane	TED	1	:Roadrunner	0	: 	2	:/Users/SamSelikoff/TED/roadrunner	0	zsh	:
+pane	TED	2	:Hoover	0	:-	1	:/Users/SamSelikoff/TED/hoover/ember	0	zsh	:
+pane	TED	2	:Hoover	0	:-	2	:/Users/SamSelikoff/TED/hoover/ember	1	zsh	:
+pane	TED	2	:Hoover	0	:-	3	:/Users/SamSelikoff/TED/hoover/node	0	zsh	:
+pane	TED	4	:TED Ed	1	:*	1	:/Users/SamSelikoff/TED/TEDEd	0	ruby	:foreman: master AWS_ACCESS_KEY_ID=AKIAII6CHRNKAA3UUPGA AWS_SECRET_ACCESS_KEY=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 Apple_PubSub_Socket_Render=/tmp/launch-590aLG/Render COLORFGBG=12;8 COMMAND_MODE=unix2003 DISPLAY=/tmp/launch-xiwgK2/org.macosforge.xquartz:0 GREP_COLOR=1;32
+pane	TED	4	:TED Ed	1	:*	2	:/Users/SamSelikoff/TED/TEDEd	1	zsh	:
+window	OSS	1	0	:#-	be3a,204x58,0,0{82x58,0,0,18,121x58,83,0,21}
+window	OSS	2	1	:*	55d9,204x58,0,0{97x58,0,0,24,106x58,98,0,25}
+window	TED	1	0	: 	7e80,204x58,0,0{101x58,0,0,1,102x58,102,0,13}
+window	TED	2	0	:-	8b53,204x58,0,0{97x58,0,0,12,106x58,98,0[106x29,98,0,31,106x28,98,30,33]}
+window	TED	4	1	:*	1ac8,204x58,0,0{102x58,0,0,34,101x58,103,0,40}
+state	TED	OSS

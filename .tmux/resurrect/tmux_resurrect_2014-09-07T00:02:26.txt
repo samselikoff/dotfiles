@@ -1,0 +1,6 @@
+pane	TED	1	:roadrunner	1	:*	1	:/Users/SamSelikoff/TED/roadrunner	1	zsh	:
+pane	TED	2	:hoover	0	:-	1	:/Users/SamSelikoff/TED/hoover	1	zsh	:
+pane	TED	2	:hoover	0	:-	2	:/Users/SamSelikoff/TED/hoover	0	zsh	:
+window	TED	1	1	:*	bbc4,363x91,0,0,7
+window	TED	2	0	:-	5659,363x91,0,0{181x91,0,0,8,181x91,182,0,10}
+state	TED	

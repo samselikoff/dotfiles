@@ -1,0 +1,74 @@
+pane	OSS	1	:ember-cli-mirage	1	:*	1	:/Users/SamSelikoff/Projects/ember-cli-mirage	0	zsh	:
+pane	OSS	1	:ember-cli-mirage	1	:*	2	:/Users/SamSelikoff/Projects/ember-cli-mirage	1	zsh	:
+pane	OSS	1	:ember-cli-mirage	1	:*	3	:/Users/SamSelikoff/Projects/ember-cli-mirage-copy	0	zsh	:
+pane	OSS	2	:ember-cli-tachyons	0	:-	1	:/Users/SamSelikoff/Projects	1	zsh	:
+pane	OSS	2	:ember-cli-tachyons	0	:-	2	:/Users/SamSelikoff/Projects/ember-cli-tachyons	0	zsh	:
+pane	OSS	3	:ember-cli-deploy-front-end-builds-pack	0	: 	1	:/Users/SamSelikoff/Projects/github/ember-cli-deploy-front-end-builds	0	zsh	:
+pane	OSS	3	:ember-cli-deploy-front-end-builds-pack	0	: 	2	:/Users/SamSelikoff/Projects/github/ember-cli-deploy-front-end-builds	1	zsh	:
+pane	OSS	3	:ember-cli-deploy-front-end-builds-pack	0	: 	3	:/Users/SamSelikoff/Projects/github/ember-cli-deploy-front-end-builds	0	zsh	:
+pane	OSS	4	:ember-collapsible-panel	0	: 	1	:/Users/SamSelikoff/Projects/github/ember-collapsible-panel	1	zsh	:
+pane	OSS	5	:ember-cli-addon-docs	0	: 	1	:/Users/SamSelikoff/Projects/github/ember-cli-addon-docs	1	zsh	:
+pane	OSS	5	:ember-cli-addon-docs	0	: 	2	:/Users/SamSelikoff/Projects/github/ember-cli-addon-docs	0	zsh	:
+pane	OSS	5	:ember-cli-addon-docs	0	: 	3	:/Users/SamSelikoff/Projects/github/ember-cli-addon-docs	0	zsh	:
+pane	OSS	6	:ember-file-upload	0	: 	1	:/Users/SamSelikoff/Projects/github/ember-file-upload	0	zsh	:
+pane	OSS	6	:ember-file-upload	0	: 	2	:/Users/SamSelikoff/Projects/github/ember-file-upload	1	zsh	:
+pane	OSS	7	:scratch	0	: 	1	:/Users/SamSelikoff/Projects/scratch	1	zsh	:
+pane	base	1	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff	1	zsh	:
+pane	ember-map	1	:frontend	0	: 	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-frontend	0	zsh	:
+pane	ember-map	1	:frontend	0	: 	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-frontend	1	zsh	:
+pane	ember-map	1	:frontend	0	: 	3	:/Users/SamSelikoff/Projects/ember-map/ember-map-frontend	0	zsh	:
+pane	ember-map	2	:backend	0	:-	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-backend	0	zsh	:
+pane	ember-map	2	:backend	0	:-	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-backend	1	zsh	:
+pane	ember-map	3	:admin	0	: 	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-admin	0	zsh	:
+pane	ember-map	3	:admin	0	: 	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-admin	1	zsh	:
+pane	ember-map	4	:embermap-cms	1	:*	1	:/Users/SamSelikoff/Projects/Ember Map assets/demos/embermap-cms	0	zsh	:
+pane	ember-map	4	:embermap-cms	1	:*	2	:/Users/SamSelikoff/Projects/Ember Map assets/demos/embermap-cms	1	zsh	:
+pane	kaspick	1	:kaspick-connect	1	:*	1	:/Users/SamSelikoff/Projects/kaspick/kaspick-connect	0	zsh	:
+pane	kaspick	1	:kaspick-connect	1	:*	2	:/Users/SamSelikoff/Projects/kaspick/kaspick-connect	1	zsh	:
+pane	kaspick	1	:kaspick-connect	1	:*	3	:/Users/SamSelikoff/Projects/kaspick/kaspick-connect	0	git	:git diff
+pane	kaspick	2	:kaspick-connect-copy	0	:-	1	:/Users/SamSelikoff/Projects/kaspick/kaspick-connect-copy	0	zsh	:
+pane	kaspick	2	:kaspick-connect-copy	0	:-	2	:/Users/SamSelikoff/Projects/kaspick/kaspick-connect-copy	1	zsh	:
+pane	kbb	1	:frontend	1	:*	1	:/Users/SamSelikoff/Projects/kbb/kbb-profiler	0	zsh	:
+pane	kbb	1	:frontend	1	:*	2	:/Users/SamSelikoff/Projects/kbb/kbb-profiler	1	zsh	:
+pane	kbb	1	:frontend	1	:*	3	:/Users/SamSelikoff/Projects/kbb/kbb-profiler	0	zsh	:
+pane	kbb	2	:backend	0	:-	1	:/Users/SamSelikoff/Projects/kbb/kbb-profiler-backend	0	zsh	:
+pane	kbb	2	:backend	0	:-	2	:/Users/SamSelikoff/Projects/kbb/kbb-profiler-backend	0	zsh	:
+pane	kbb	2	:backend	0	:-	3	:/Users/SamSelikoff/Projects/kbb/kbb-profiler-backend	1	zsh	:
+pane	nimble	2	:nmbl-components	1	:*	1	:/Users/SamSelikoff/Projects/nimble/nmbl-components	0	zsh	:
+pane	nimble	2	:nmbl-components	1	:*	2	:/Users/SamSelikoff/Projects/nimble/nmbl-render-ember-component	1	zsh	:
+pane	play	1	:persevere	0	: 	1	:/Users/SamSelikoff/Projects/persevere	1	zsh	:
+pane	play	1	:persevere	0	: 	2	:/Users/SamSelikoff/Projects/persevere	0	zsh	:
+pane	play	2	:card-stack	0	: 	1	:/Users/SamSelikoff/Projects/stupendous-rentals	0	zsh	:
+pane	play	2	:card-stack	0	: 	2	:/Users/SamSelikoff/Projects/stupendous-rentals	1	zsh	:
+pane	play	3	:ember-animated	0	: 	1	:/Users/SamSelikoff/Projects/ember-animated	1	zsh	:
+pane	play	4	:nmbl-docs	0	: 	1	:/Users/SamSelikoff/Projects/nimble/nmbl-docs	1	zsh	:
+pane	play	5	:scratch	0	:-	1	:/Users/SamSelikoff/Projects/scratch/ember-data-async-linkage	1	zsh	:
+pane	play	5	:scratch	0	:-	2	:/Users/SamSelikoff/Projects/scratch/ember-data-async-linkage	0	zsh	:
+pane	play	6	:animated-transition	0	: 	1	:/Users/SamSelikoff/Projects/scratch/animated-transition-example	1	zsh	:
+pane	play	7	:scratch	1	:*	1	:/Users/SamSelikoff/Projects/scratch/top-level-routes	0	zsh	:
+pane	play	7	:scratch	1	:*	2	:/Users/SamSelikoff/Projects/scratch/top-level-routes	1	zsh	:
+window	OSS	1	1	:*	40fb,318x83,0,0{179x83,0,0[179x41,0,0,1,179x41,0,42,52],138x83,180,0,51}
+window	OSS	2	0	:-	e63a,318x83,0,0[318x40,0,0,4,318x42,0,41,5]
+window	OSS	3	0	: 	bef4,318x83,0,0[318x40,0,0,6,318x42,0,41{159x42,0,41,7,158x42,160,41,8}]
+window	OSS	4	0	: 	c306,318x83,0,0,9
+window	OSS	5	0	: 	158c,318x83,0,0[318x41,0,0,10,318x41,0,42{159x41,0,42,11,158x41,160,42,12}]
+window	OSS	6	0	: 	7f41,318x83,0,0[318x41,0,0,13,318x41,0,42,14]
+window	OSS	7	0	: 	61b4,318x83,0,0,15
+window	base	1	1	:*	c2fd,318x83,0,0,0
+window	ember-map	1	0	: 	55a6,318x83,0,0[318x41,0,0,16,318x41,0,42{159x41,0,42,17,158x41,160,42,18}]
+window	ember-map	2	0	:-	bf45,318x83,0,0[318x41,0,0,19,318x41,0,42,20]
+window	ember-map	3	0	: 	3f3f,318x83,0,0[318x41,0,0,21,318x41,0,42,22]
+window	ember-map	4	1	:*	3f42,318x83,0,0[318x41,0,0,23,318x41,0,42,24]
+window	kaspick	1	1	:*	81ad,318x83,0,0[318x45,0,0,25,318x37,0,46{159x37,0,46,26,158x37,160,46,27}]
+window	kaspick	2	0	:-	bf49,318x83,0,0[318x41,0,0,47,318x41,0,42,48]
+window	kbb	1	1	:*	93de,318x83,0,0[318x40,0,0,28,318x42,0,41{159x42,0,41,29,158x42,160,41,30}]
+window	kbb	2	0	:-	83c4,318x83,0,0[318x40,0,0,31,318x42,0,41{159x42,0,41,32,158x42,160,41,33}]
+window	nimble	2	1	:*	7f44,318x83,0,0[318x41,0,0,34,318x41,0,42,35]
+window	play	1	0	: 	6dc7,318x83,0,0[318x40,0,0,36,318x42,0,41,37]
+window	play	2	0	: 	780a,318x83,0,0[318x49,0,0,38,318x33,0,50,39]
+window	play	3	0	: 	e1b0,318x83,0,0,40
+window	play	4	0	: 	e1b1,318x83,0,0,41
+window	play	5	0	:-	3f42,318x83,0,0[318x41,0,0,42,318x41,0,42,43]
+window	play	6	0	: 	e1b4,318x83,0,0,44
+window	play	7	1	:*	bf46,318x83,0,0[318x41,0,0,45,318x41,0,42,46]
+state	kaspick	ember-map

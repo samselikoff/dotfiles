@@ -1,0 +1,39 @@
+pane	3	1	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff/Projects/client_work/promoboxx/campaign-designer	1	zsh	:
+pane	OSS	1	:talks	0	:#	1	:/Users/SamSelikoff/Projects/talks	1	zsh	:
+pane	OSS	2	:samselikoff	1	:*	1	:/Users/SamSelikoff/Projects/samselikoff	0	zsh	:
+pane	OSS	2	:samselikoff	1	:*	2	:/Users/SamSelikoff/Projects/samselikoff	1	zsh	:
+pane	OSS	3	:list-view	0	:#	1	:/Users/SamSelikoff/Projects/github/list-view	0	zsh	:
+pane	OSS	3	:list-view	0	:#	2	:/Users/SamSelikoff/Projects/github/list-view	1	zsh	:
+pane	OSS	3	:list-view	0	:#	3	:/Users/SamSelikoff/Projects/github/list-view	0	zsh	:
+pane	OSS	4	:ember-website	0	:#	1	:/Users/SamSelikoff/Projects/github/ember/website	1	zsh	:
+pane	OSS	5	:ember-cli-pagination	0	:-	1	:/Users/SamSelikoff/Projects/github/ember-cli-pagination	1	zsh	:
+pane	OSS	5	:ember-cli-pagination	0	:-	2	:/Users/SamSelikoff/Projects/github/ember-cli-pagination	0	zsh	:
+pane	OSS	6	:EmberAdmin	0	:#	1	:/Users/SamSelikoff/Projects/github/ember-admin-bootstrap	1	zsh	:
+pane	OSS	6	:EmberAdmin	0	:#	2	:/Users/SamSelikoff/Projects/github/ember-admin-bootstrap	0	zsh	:
+pane	TED	1	:Roadrunner	0	: 	1	:/Users/SamSelikoff/TED/roadrunner	1	zsh	:
+pane	TED	1	:Roadrunner	0	: 	2	:/Users/SamSelikoff/TED/roadrunner	0	zsh	:
+pane	TED	2	:Hoover	0	: 	1	:/Users/SamSelikoff/TED/hoover/ember	0	zsh	:
+pane	TED	2	:Hoover	0	: 	2	:/Users/SamSelikoff/TED/hoover	1	zsh	:
+pane	TED	2	:Hoover	0	: 	3	:/Users/SamSelikoff/TED/hoover/rails	0	zsh	:
+pane	TED	2	:Hoover	0	: 	4	:/Users/SamSelikoff/TED/hoover/rails	0	zsh	:
+pane	TED	3	:TED Ed	1	:*	1	:/Users/SamSelikoff/TED/TEDEd	1	zsh	:
+pane	TED	3	:TED Ed	1	:*	2	:/Users/SamSelikoff/TED/TEDEd	0	zsh	:
+pane	TED	4	:ember-cli-ted-bootstrap	0	:-	1	:/Users/SamSelikoff/TED/ember-cli-ted-bootstrap	1	zsh	:
+pane	TED	5	:ted-ed-lesson-creator	0	: 	1	:/Users/SamSelikoff/TED/ted-ed-lesson-creator	1	zsh	:
+pane	TED	5	:ted-ed-lesson-creator	0	: 	2	:/Users/SamSelikoff/TED/ted-ed-lesson-creator	0	zsh	:
+pane	TED	5	:ted-ed-lesson-creator	0	: 	3	:/Users/SamSelikoff/TED/ted-ed-lesson-creator	0	zsh	:
+pane	TED	6	:reattach-to-user-namespace	0	: 	1	:/Users/SamSelikoff/TED/TEDEd	1	zsh	:
+window	3	1	1	:*	e786,204x58,0,0,46
+window	OSS	1	0	:#	c83e,364x94,0,0,1
+window	OSS	2	1	:*	7892,364x94,0,0{177x94,0,0,2,186x94,178,0,3}
+window	OSS	3	0	:#	fe16,364x94,0,0[364x47,0,0,4,364x46,0,48{182x46,0,48,5,181x46,183,48,33}]
+window	OSS	4	0	:#	c843,364x94,0,0,6
+window	OSS	5	0	:-	4149,364x94,0,0[364x47,0,0,40,364x46,0,48,53]
+window	OSS	6	0	:#	014b,364x94,0,0[364x47,0,0,42,364x46,0,48,43]
+window	TED	1	0	: 	7c5a,204x58,0,0{101x58,0,0,7,102x58,102,0,8}
+window	TED	2	0	: 	79d7,204x58,0,0{97x58,0,0[97x29,0,0,9,97x28,0,30,21],106x58,98,0[106x29,98,0,20,106x28,98,30,54]}
+window	TED	3	1	:*	5ac8,204x58,0,0{102x58,0,0,13,101x58,103,0,14}
+window	TED	4	0	:-	6789,204x58,0,0,39
+window	TED	5	0	: 	6f03,204x58,0,0{102x58,0,0[102x29,0,0,47,102x28,0,30,49],101x58,103,0,48}
+window	TED	6	0	: 	6786,204x58,0,0,55
+state	TED	OSS

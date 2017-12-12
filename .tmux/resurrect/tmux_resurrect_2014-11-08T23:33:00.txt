@@ -1,0 +1,49 @@
+pane	0	1	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff/Projects	1	zsh	:
+pane	3	2	:patch	1	:*	1	:/Users/SamSelikoff/Projects	1	zsh	:
+pane	OSS	1	:talks	0	: 	1	:/Users/SamSelikoff/Projects/talks	1	zsh	:
+pane	OSS	2	:samselikoff	0	: 	1	:/Users/SamSelikoff/Projects/samselikoff	1	zsh	:
+pane	OSS	2	:samselikoff	0	: 	2	:/Users/SamSelikoff/Projects/samselikoff	0	zsh	:
+pane	OSS	3	:list-view	0	: 	1	:/Users/SamSelikoff/Projects/github/list-view	1	zsh	:
+pane	OSS	3	:list-view	0	: 	2	:/Users/SamSelikoff/Projects/github/list-view	0	zsh	:
+pane	OSS	3	:list-view	0	: 	3	:/Users/SamSelikoff/Projects/github/list-view	0	zsh	:
+pane	OSS	4	:ember-website	0	: 	1	:/Users/SamSelikoff/Projects/github/ember/website	1	zsh	:
+pane	OSS	5	:ember-cli-pagination	0	: 	1	:/Users/SamSelikoff/Projects/github/ember-cli-pagination	1	zsh	:
+pane	OSS	5	:ember-cli-pagination	0	: 	2	:/Users/SamSelikoff/Projects/github/ember-cli-pagination	0	zsh	:
+pane	OSS	6	:EmberAdmin	0	:-	1	:/Users/SamSelikoff/Projects/github/ember-admin-bootstrap	1	zsh	:
+pane	OSS	6	:EmberAdmin	0	:-	2	:/Users/SamSelikoff/Projects/github/ember-admin-bootstrap	0	zsh	:
+pane	OSS	7	:ember-deploy	1	:*	1	:/Users/SamSelikoff/Projects/github/ember-deploy	1	zsh	:
+pane	TED	1	:reattach-to-user-namespace	0	: 	1	:/Users/SamSelikoff/TED	1	zsh	:
+pane	TED	2	:Hoover	1	:*	1	:/Users/SamSelikoff/TED/hoover/ember	0	zsh	:
+pane	TED	2	:Hoover	1	:*	2	:/Users/SamSelikoff/TED/hoover	1	zsh	:
+pane	TED	2	:Hoover	1	:*	3	:/Users/SamSelikoff/TED/hoover/node	0	zsh	:
+pane	TED	2	:Hoover	1	:*	4	:/Users/SamSelikoff/TED/hoover/rails	0	zsh	:
+pane	TED	3	:TED Ed	0	:-	1	:/Users/SamSelikoff/TED/TEDEd	0	zsh	:
+pane	TED	3	:TED Ed	0	:-	2	:/Users/SamSelikoff/TED/TEDEd	1	zsh	:
+pane	TED	3	:TED Ed	0	:-	3	:/Users/SamSelikoff/TED/TEDEd	0	zsh	:
+pane	TED	4	:ember-cli-ted-bootstrap	0	: 	1	:/Users/SamSelikoff/TED/ember-cli-ted-bootstrap	1	zsh	:
+pane	TED	5	:ted-ed-lesson-creator	0	: 	1	:/Users/SamSelikoff/TED/ted-ed-lesson-creator	1	zsh	:
+pane	TED	5	:ted-ed-lesson-creator	0	: 	2	:/Users/SamSelikoff/TED/ted-ed-lesson-creator	0	zsh	:
+pane	TED	6	:CDS	0	: 	1	:/Users/SamSelikoff/TED/cds_data	1	zsh	:
+pane	TED	7	:ember-cli-static-deploy	0	: 	1	:/Users/SamSelikoff/TED/ember-cli-static-deploy	1	zsh	:
+pane	TED	8	:front_end_builds	0	: 	1	:/Users/SamSelikoff/TED/front_end_builds	0	zsh	:
+pane	TED	8	:front_end_builds	0	: 	2	:/Users/SamSelikoff/TED/front_end_builds	1	zsh	:
+pane	TED	10	:scratch	0	: 	1	:/Users/SamSelikoff/Projects/scratch/ember-wtf	1	zsh	:
+window	0	1	1	:*	ce9d,204x58,0,0,0
+window	3	2	1	:*	b63e,178x51,0,0,1
+window	OSS	1	0	: 	cea0,204x58,0,0,3
+window	OSS	2	0	: 	dde5,204x58,0,0[204x29,0,0,4,204x28,0,30,5]
+window	OSS	3	0	: 	4eae,204x58,0,0[204x29,0,0,6,204x28,0,30{102x28,0,30,7,101x28,103,30,8}]
+window	OSS	4	0	: 	cea6,204x58,0,0,9
+window	OSS	5	0	: 	a0c1,204x58,0,0[204x29,0,0,10,204x28,0,30,11]
+window	OSS	6	0	:-	a0c4,204x58,0,0[204x29,0,0,12,204x28,0,30,13]
+window	OSS	7	1	:*	6787,204x58,0,0,37
+window	TED	1	0	: 	e780,204x58,0,0,40
+window	TED	2	1	:*	81dc,204x58,0,0{97x58,0,0[97x28,0,0,16,97x29,0,29,17],106x58,98,0[106x28,98,0,18,106x29,98,29,19]}
+window	TED	3	0	:-	8efb,204x58,0,0{102x58,0,0[102x29,0,0,20,102x28,0,30,39],101x58,103,0,31}
+window	TED	4	0	: 	e781,204x58,0,0,22
+window	TED	5	0	: 	7009,204x58,0,0[204x38,0,0,24,204x19,0,39,26]
+window	TED	6	0	: 	e784,204x58,0,0,25
+window	TED	7	0	: 	e786,204x58,0,0,27
+window	TED	8	0	: 	a749,204x58,0,0[204x28,0,0,34,204x29,0,29,35]
+window	TED	10	0	: 	e781,204x58,0,0,41
+state	TED	OSS

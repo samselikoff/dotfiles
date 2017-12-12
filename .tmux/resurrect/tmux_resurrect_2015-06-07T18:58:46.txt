@@ -1,0 +1,86 @@
+pane	OSS	1	:talks	0	: 	1	:/Users/SamSelikoff/Projects/talks	1	vim	:vim .
+pane	OSS	1	:talks	0	: 	2	:/Users/SamSelikoff/Projects/talks	0	zsh	:
+pane	OSS	2	:samselikoff	0	: 	1	:/Users/SamSelikoff/Projects/samselikoff	0	zsh	:
+pane	OSS	2	:samselikoff	0	: 	2	:/Users/SamSelikoff/Projects/samselikoff	0	zsh	:
+pane	OSS	2	:samselikoff	0	: 	3	:/Users/SamSelikoff/Projects/train_with_brett	1	zsh	:
+pane	OSS	3	:list-view	0	: 	1	:/Users/SamSelikoff/Projects/github/list-view	1	zsh	:
+pane	OSS	3	:list-view	0	: 	2	:/Users/SamSelikoff/Projects/github/list-view	0	zsh	:
+pane	OSS	3	:list-view	0	: 	3	:/Users/SamSelikoff/Projects/github/list-view	0	zsh	:
+pane	OSS	4	:ember-cli-mirage	0	: 	1	:/Users/SamSelikoff/Projects/ember-cli-mirage	1	zsh	:
+pane	OSS	4	:ember-cli-mirage	0	: 	2	:/Users/SamSelikoff/Projects/ember-cli-mirage	0	zsh	:
+pane	OSS	4	:ember-cli-mirage	0	: 	3	:/Users/SamSelikoff/Projects/ember-cli-mirage	0	zsh	:
+pane	OSS	5	:front_end_builds	0	: 	1	:/Users/SamSelikoff/TED/front_end_builds/admin	0	zsh	:
+pane	OSS	5	:front_end_builds	0	: 	2	:/Users/SamSelikoff/TED/front_end_builds/admin	1	zsh	:
+pane	OSS	6	:ember-cli-deploy	0	: 	1	:/Users/SamSelikoff/Projects/github/ember-cli-deploy	1	zsh	:
+pane	OSS	6	:ember-cli-deploy	0	: 	2	:/Users/SamSelikoff/Projects/github/ember-cli-deploy	0	zsh	:
+pane	OSS	6	:ember-cli-deploy	0	: 	3	:/Users/SamSelikoff/Projects/github/ember-cli-deploy	0	zsh	:
+pane	OSS	7	:collapsible-panel	1	:*	1	:/Users/SamSelikoff/Projects/github/ember-collapsible-panel	1	zsh	:
+pane	OSS	7	:collapsible-panel	1	:*	2	:/Users/SamSelikoff/Projects/github/ember-collapsible-panel	0	zsh	:
+pane	OSS	8	:rails-wtf	0	:-	1	:/Users/SamSelikoff/Projects/scratch/rails-wtf	0	vim	:vim .
+pane	OSS	8	:rails-wtf	0	:-	2	:/Users/SamSelikoff/Projects/scratch/rails-wtf	1	zsh	:
+pane	OSS	9	:mirage-wtf	0	: 	1	:/Users/SamSelikoff/Projects/scratch/mirage-wtf	0	vim	:vim .
+pane	OSS	9	:mirage-wtf	0	: 	2	:/Users/SamSelikoff/Projects/scratch/mirage-wtf	0	zsh	:
+pane	OSS	9	:mirage-wtf	0	: 	3	:/Users/SamSelikoff/Projects/scratch/mirage-wtf	1	zsh	:
+pane	TED	1	:Roadrunner	0	:-	1	:/Users/SamSelikoff/TED/roadrunner	1	zsh	:
+pane	TED	2	:Hoover	1	:*	1	:/Users/SamSelikoff/TED/hoover/ember	1	vim	:vim .
+pane	TED	2	:Hoover	1	:*	2	:/Users/SamSelikoff/TED/hoover/ember	0	zsh	:
+pane	TED	2	:Hoover	1	:*	3	:/Users/SamSelikoff/TED/hoover/ember	0	zsh	:
+pane	TED	6	:debtonator_frontend	0	: 	1	:/Users/SamSelikoff/TED/debtonator-frontend	1	zsh	:
+pane	TED	6	:debtonator_frontend	0	: 	2	:/Users/SamSelikoff/TED/debtonator-frontend	0	zsh	:
+pane	TED-Ed	1	:lesson-creator	0	:-	1	:/Users/SamSelikoff/TED/ted-ed-lesson-creator	1	zsh	:
+pane	TED-Ed	1	:lesson-creator	0	:-	2	:/Users/SamSelikoff/TED/ted-ed-lesson-creator	0	zsh	:
+pane	TED-Ed	2	:homepage-prototype	0	: 	1	:/Users/SamSelikoff/TED/ted-ed-lesson-creator	1	zsh	:
+pane	TED-Ed	3	:teded	1	:*	1	:/Users/SamSelikoff/TED/TEDEd	0	zsh	:
+pane	TED-Ed	3	:teded	1	:*	2	:/Users/SamSelikoff/TED/TEDEd	1	zsh	:
+pane	TED-Ed	3	:teded	1	:*	3	:/Users/SamSelikoff/TED/TEDEd	0	zsh	:
+pane	TED-Ed	4	:clubs-analytics	0	: 	1	:/Users/SamSelikoff/TEDED/clubs-analytics	1	zsh	:
+pane	TED-Ed	4	:clubs-analytics	0	: 	2	:/Users/SamSelikoff/TEDED/clubs-analytics	0	zsh	:
+pane	TED-projects	1	:front_end_builds	0	: 	1	:/Users/SamSelikoff/TED/front_end_builds/admin	1	zsh	:
+pane	TED-projects	1	:front_end_builds	0	: 	2	:/Users/SamSelikoff/TED/front_end_builds/admin	0	zsh	:
+pane	TED-projects	2	:ember-cli-ted-bootstrap	0	: 	1	:/Users/SamSelikoff/TED/ember-cli-ted-bootstrap	1	zsh	:
+pane	TED-projects	3	:ember-cli-static-deploy	0	: 	1	:/Users/SamSelikoff/TED/ember-cli-front-end-builds	1	zsh	:
+pane	TED-projects	5	:ember-cli-sticky-headers	0	: 	1	:/Users/SamSelikoff/TED/ember-sticky-headers/tests/dummy	0	zsh	:
+pane	TED-projects	5	:ember-cli-sticky-headers	0	: 	2	:/Users/SamSelikoff/TED/ember-sticky-headers	0	zsh	:
+pane	TED-projects	5	:ember-cli-sticky-headers	0	: 	3	:/Users/SamSelikoff/TED/ember-sticky-headers	1	zsh	:
+pane	TED-projects	6	:ember-cli-ted-components	1	:*	1	:/Users/SamSelikoff/TED/ember-cli-ted-components	0	vim	:vim .
+pane	TED-projects	6	:ember-cli-ted-components	1	:*	2	:/Users/SamSelikoff/TED/ember-cli-ted-components	1	zsh	:
+pane	TED-projects	7	:org-chart	0	:-	1	:/Users/SamSelikoff/TED/org-chart	1	zsh	:
+pane	apps	1	:remindr	0	:-	1	:/Users/SamSelikoff/Projects/remindr	0	zsh	:
+pane	apps	1	:remindr	0	:-	2	:/Users/SamSelikoff/Projects/remindr/rails	1	zsh	:
+pane	apps	2	:train_with_brett	1	:*	1	:/Users/SamSelikoff/Projects/train_with_brett/rails	0	zsh	:
+pane	apps	2	:train_with_brett	1	:*	2	:/Users/SamSelikoff/Projects/train_with_brett/rails	0	ruby	:ruby bin/rails console
+pane	apps	2	:train_with_brett	1	:*	3	:/Users/SamSelikoff/Projects/train_with_brett/ember	1	zsh	:
+pane	apps	2	:train_with_brett	1	:*	4	:/Users/SamSelikoff/Projects/train_with_brett/ember	0	zsh	:
+pane	base	1	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff	1	zsh	:
+pane	scratch	1	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff/Projects/scratch/ember-angle-bracket-demo	1	zsh	:
+pane	scratch	1	:reattach-to-user-namespace	1	:*	2	:/Users/SamSelikoff/Projects/scratch/ember-angle-bracket-demo	0	zsh	:
+pane	scratch	2	:reattach-to-user-namespace	0	:-	1	:/Users/SamSelikoff/Projects/scratch/component-css-example	0	vim	:vim .
+pane	scratch	2	:reattach-to-user-namespace	0	:-	2	:/Users/SamSelikoff/Projects/scratch/component-css-example	1	zsh	:
+window	OSS	1	0	: 	acb9,318x88,0,0[318x48,0,0,1,318x39,0,49,2]
+window	OSS	2	0	: 	24ef,318x88,0,0[318x49,0,0,3,318x38,0,50{153x38,0,50,4,164x38,154,50,5}]
+window	OSS	3	0	: 	5eda,318x88,0,0[318x47,0,0,6,318x40,0,48{158x40,0,48,7,159x40,159,48,8}]
+window	OSS	4	0	: 	f07b,318x88,0,0[318x49,0,0,9,318x38,0,50{159x38,0,50,10,158x38,160,50,11}]
+window	OSS	5	0	: 	6d81,318x88,0,0[318x53,0,0,12,318x34,0,54,13]
+window	OSS	6	0	: 	7484,318x88,0,0[318x53,0,0,14,318x34,0,54{157x34,0,54,15,160x34,158,54,16}]
+window	OSS	7	1	:*	f648,318x88,0,0[318x44,0,0,17,318x43,0,45,18]
+window	OSS	8	0	:-	3647,318x88,0,0[318x44,0,0,19,318x43,0,45,20]
+window	OSS	9	0	: 	81cf,318x88,0,0[318x49,0,0,21,318x38,0,50{159x38,0,50,22,158x38,160,50,23}]
+window	TED	1	0	:-	ebb3,318x88,0,0,24
+window	TED	2	1	:*	8676,318x88,0,0[318x48,0,0,25,318x39,0,49{154x39,0,49,26,163x39,155,49,27}]
+window	TED	6	0	: 	364b,318x88,0,0[318x44,0,0,28,318x43,0,45,29]
+window	TED-Ed	1	0	:-	ed7f,318x88,0,0[318x53,0,0,30,318x34,0,54,31]
+window	TED-Ed	2	0	: 	6bb2,318x88,0,0,32
+window	TED-Ed	3	1	:*	9d6c,318x88,0,0[318x44,0,0,33,318x43,0,45{157x43,0,45,34,160x43,158,45,35}]
+window	TED-Ed	4	0	: 	f648,318x88,0,0[318x44,0,0,36,318x43,0,45,37]
+window	TED-projects	1	0	: 	ed8b,318x88,0,0[318x53,0,0,38,318x34,0,54,39]
+window	TED-projects	2	0	: 	ebb0,318x88,0,0,40
+window	TED-projects	3	0	: 	ebb1,318x88,0,0,41
+window	TED-projects	5	0	: 	2737,318x88,0,0[318x44,0,0{159x44,0,0,42,158x44,160,0,43},318x43,0,45,44]
+window	TED-projects	6	1	:*	2d88,318x88,0,0[318x53,0,0,45,318x34,0,54,46]
+window	TED-projects	7	0	:-	ebb7,318x88,0,0,47
+window	apps	1	0	:-	52d3,178x55,0,0[178x19,0,0,48,178x35,0,20,49]
+window	apps	2	1	:*	9b62,178x55,0,0{89x55,0,0[89x27,0,0,50,89x27,0,28,51],88x55,90,0[88x27,90,0,52,88x27,90,28,53]}
+window	base	1	1	:*	d6fd,318x88,0,0,0
+window	scratch	1	1	:*	7647,318x88,0,0[318x44,0,0,54,318x43,0,45,55]
+window	scratch	2	0	:-	764a,318x88,0,0[318x44,0,0,56,318x43,0,45,57]
+state	apps	TED-Ed

@@ -1,0 +1,117 @@
+pane	0	1	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff	1	zsh	:
+pane	Maeda	1	:maeda-backend	0	: 	1	:/Users/SamSelikoff/Projects/201-created/maeda-backend	1	zsh	:
+pane	Maeda	1	:maeda-backend	0	: 	2	:/Users/SamSelikoff/Projects/201-created/maeda-backend	0	zsh	:
+pane	Maeda	2	:maeda-admin	0	:-	1	:/Users/SamSelikoff/Projects/201-created/maeda-admin	1	zsh	:
+pane	Maeda	2	:maeda-admin	0	:-	2	:/Users/SamSelikoff/Projects/201-created/maeda-admin	0	zsh	:
+pane	Maeda	3	:maeda-frontend	1	:*	1	:/Users/SamSelikoff/Projects/201-created/maeda-frontend	1	zsh	:
+pane	Maeda	3	:maeda-frontend	1	:*	2	:/Users/SamSelikoff/Projects/201-created/maeda-frontend	0	zsh	:
+pane	OSS	1	:mirage	1	:*	1	:/Users/SamSelikoff/Projects/ember-cli-mirage	1	zsh	:
+pane	OSS	1	:mirage	1	:*	2	:/Users/SamSelikoff/Projects/ember-cli-mirage	0	zsh	:
+pane	OSS	1	:mirage	1	:*	3	:/Users/SamSelikoff/Projects/ember-cli-mirage	0	zsh	:
+pane	OSS	2	:samselikoff	0	: 	1	:/Users/SamSelikoff/Projects/samselikoff	1	zsh	:
+pane	OSS	2	:samselikoff	0	: 	2	:/Users/SamSelikoff/Projects/samselikoff	0	zsh	:
+pane	OSS	3	:emberjs/rfcs	0	: 	1	:/Users/SamSelikoff/Projects/github/emberjs/rfcs	1	zsh	:
+pane	OSS	4	:scratch	0	: 	1	:/Users/SamSelikoff/Projects/scratch/ember-exam-wtf	1	zsh	:
+pane	OSS	4	:scratch	0	: 	2	:/Users/SamSelikoff/Projects/scratch/ember-exam-wtf	0	vim	:vim .
+pane	OSS	5	:mirage-twiddle-wrapper	0	: 	1	:/Users/SamSelikoff/Projects/ember-cli-mirage-twiddle-wrapper	1	vim	:vim .
+pane	OSS	5	:mirage-twiddle-wrapper	0	: 	2	:/Users/SamSelikoff/Projects/ember-cli-mirage-twiddle-wrapper	0	zsh	:
+pane	OSS	5	:mirage-twiddle-wrapper	0	: 	3	:/Users/SamSelikoff/Projects/ember-cli-mirage-twiddle-wrapper	0	zsh	:
+pane	OSS	6	:modal-dialog	0	: 	1	:/Users/SamSelikoff/Projects/github	1	zsh	:
+pane	OSS	7	:reattach-to-user-namespace	0	:-	1	:/Users/SamSelikoff/Projects/github/ember-engines.com	0	zsh	:
+pane	OSS	7	:reattach-to-user-namespace	0	:-	2	:/Users/SamSelikoff/Projects/github/ember-engines.com	1	zsh	:
+pane	TED	1	:Roadrunner	0	: 	1	:/Users/SamSelikoff/TED/roadrunner	0	zsh	:
+pane	TED	1	:Roadrunner	0	: 	2	:/Users/SamSelikoff/TED/roadrunner	1	zsh	:
+pane	TED	1	:Roadrunner	0	: 	3	:/Users/SamSelikoff/TED/roadrunner	0	zsh	:
+pane	TED	2	:hoover-frontend	0	: 	1	:/Users/SamSelikoff/TED/hoover-frontend	0	zsh	:
+pane	TED	2	:hoover-frontend	0	: 	2	:/Users/SamSelikoff/TED/hoover-frontend	1	zsh	:
+pane	TED	2	:hoover-frontend	0	: 	3	:/Users/SamSelikoff/TED/hoover-frontend	0	zsh	:
+pane	TED	3	:stagefront	0	: 	1	:/Users/SamSelikoff/TED/stagefront	0	zsh	:
+pane	TED	3	:stagefront	0	: 	2	:/Users/SamSelikoff/TED/stagefront	1	zsh	:
+pane	TED	4	:backstage	0	: 	1	:/Users/SamSelikoff/TED/backstage	0	zsh	:
+pane	TED	4	:backstage	0	: 	2	:/Users/SamSelikoff/TED/backstage	1	zsh	:
+pane	TED	4	:backstage	0	: 	3	:/Users/SamSelikoff/TED/backstage	0	zsh	:
+pane	TED	5	:ems	0	:-	1	:/Users/SamSelikoff/TED/ems	1	zsh	:
+pane	TED	5	:ems	0	:-	2	:/Users/SamSelikoff/TED/ems	0	zsh	:
+pane	TED	5	:ems	0	:-	3	:/Users/SamSelikoff/TED/ems/tmp	0	zsh	:
+pane	TED	6	:abby-dashboard	0	: 	1	:/Users/SamSelikoff/TED/abby-dashboard	0	zsh	:
+pane	TED	6	:abby-dashboard	0	: 	2	:/Users/SamSelikoff/TED/abby-dashboard	1	zsh	:
+pane	TED	6	:abby-dashboard	0	: 	3	:/Users/SamSelikoff/TED/abby-dashboard-frontend	0	zsh	:
+pane	TED	6	:abby-dashboard	0	: 	4	:/Users/SamSelikoff/TED/abby-dashboard-frontend	0	zsh	:
+pane	TED	7	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff/TED/ted-ed-lesson-creator	1	zsh	:
+pane	TED-projects	1	:front_end_builds	0	: 	1	:/Users/SamSelikoff/TED/front_end_builds/admin	1	zsh	:
+pane	TED-projects	1	:front_end_builds	0	: 	2	:/Users/SamSelikoff/TED/front_end_builds/admin	0	zsh	:
+pane	TED-projects	2	:ember-cli-ted-bootstrap	0	: 	1	:/Users/SamSelikoff/TED/ember-cli-ted-bootstrap	0	zsh	:
+pane	TED-projects	2	:ember-cli-ted-bootstrap	0	: 	2	:/Users/SamSelikoff/TED/ember-cli-ted-bootstrap	1	zsh	:
+pane	TED-projects	2	:ember-cli-ted-bootstrap	0	: 	3	:/Users/SamSelikoff/Projects/scratch/ted-bootstrap-test	0	zsh	:
+pane	TED-projects	3	:ember-cli-ted-components	0	: 	1	:/Users/SamSelikoff/TED/ember-cli-ted-components	0	vim	:vim .
+pane	TED-projects	3	:ember-cli-ted-components	0	: 	2	:/Users/SamSelikoff/TED/ember-cli-ted-components	1	zsh	:
+pane	TED-projects	4	:ember-ted-navs	0	:-	1	:/Users/SamSelikoff/TED/ember-ted-navs	1	zsh	:
+pane	TED-projects	4	:ember-ted-navs	0	:-	2	:/Users/SamSelikoff/TED/ember-ted-navs	0	zsh	:
+pane	TED-projects	5	:ted-modals	1	:*	1	:/Users/SamSelikoff/TED/ember-ted-modals	1	zsh	:
+pane	apps	1	:hourglass	0	: 	1	:/Users/SamSelikoff/Projects/remindr/ember	0	zsh	:
+pane	apps	1	:hourglass	0	: 	2	:/Users/SamSelikoff/Projects/remindr/ember	1	zsh	:
+pane	apps	2	:train_with_brett	0	: 	1	:/Users/SamSelikoff/Projects/train_with_brett/rails	0	zsh	:
+pane	apps	2	:train_with_brett	0	: 	2	:/Users/SamSelikoff/Projects/train_with_brett/ember	0	zsh	:
+pane	apps	2	:train_with_brett	0	: 	3	:/Users/SamSelikoff/Projects/train_with_brett/rails	1	zsh	:
+pane	apps	2	:train_with_brett	0	: 	4	:/Users/SamSelikoff/Projects/train_with_brett/rails	0	vim	:vim .
+pane	apps	3	:selikoff-prototypes	0	: 	1	:/Users/SamSelikoff/Projects/selikoff-prototypes/app	0	vim	:vim .
+pane	apps	3	:selikoff-prototypes	0	: 	2	:/Users/SamSelikoff/Projects/selikoff-prototypes	1	zsh	:
+pane	apps	4	:typechrist	0	: 	1	:/Users/SamSelikoff/Projects/typechrist	1	zsh	:
+pane	apps	4	:typechrist	0	: 	2	:/Users/SamSelikoff/Projects/typechrist	0	zsh	:
+pane	apps	5	:ember-map	1	:*	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-backend	1	zsh	:
+pane	apps	6	:ember-stripe-service	0	:-	1	:/Users/SamSelikoff/Projects/github/ember-stripe-service	0	zsh	:
+pane	apps	6	:ember-stripe-service	0	:-	2	:/Users/SamSelikoff/Projects/github/ember-stripe-service	1	zsh	:
+pane	base	1	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff	1	zsh	:
+pane	collectrium	1	:collectrium-room	1	:*	1	:/Users/SamSelikoff/Projects/collectrium/collectrium-room	1	zsh	:
+pane	collectrium	1	:collectrium-room	1	:*	2	:/Users/SamSelikoff/Projects/collectrium/collectrium-room	0	zsh	:
+pane	collectrium	1	:collectrium-room	1	:*	3	:/Users/SamSelikoff/Projects/collectrium/collectrium-room-backend	0	zsh	:
+pane	collectrium	2	:backend	0	:-	1	:/Users/SamSelikoff/Projects/collectrium/collectrium-room-backend	1	zsh	:
+pane	collectrium	2	:backend	0	:-	2	:/Users/SamSelikoff/Projects/collectrium/collectrium-room-backend	0	zsh	:
+pane	collectrium	2	:backend	0	:-	3	:/Users/SamSelikoff/Projects/collectrium/collectrium-room-backend	0	zsh	:
+pane	ember-map	1	:frontend	1	:*	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-frontend	0	zsh	:
+pane	ember-map	1	:frontend	1	:*	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-frontend	1	zsh	:
+pane	ember-map	2	:backend	0	:-	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-backend	0	zsh	:
+pane	ember-map	2	:backend	0	:-	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-backend	1	zsh	:
+pane	ember-map	3	:admin	0	: 	1	:/Users/SamSelikoff/Projects/ember-map/ember-map-admin	1	zsh	:
+pane	ember-map	3	:admin	0	: 	2	:/Users/SamSelikoff/Projects/ember-map/ember-map-admin	0	zsh	:
+pane	ember-map	5	:reattach-to-user-namespace	0	: 	1	:/Users/SamSelikoff/Projects/github/ember-cp-validations	1	zsh	:
+pane	nimble	1	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff/Projects/nimble/nmbl-components-sam	1	zsh	:
+pane	nimble	1	:reattach-to-user-namespace	1	:*	2	:/Users/SamSelikoff/Projects/nimble/nmbl-components-sam	0	zsh	:
+window	0	1	1	:*	b63d,178x51,0,0,0
+window	Maeda	1	0	: 	2200,178x51,0,0[178x30,0,0,1,178x20,0,31,2]
+window	Maeda	2	0	:-	4705,178x51,0,0[178x29,0,0,3,178x21,0,30,4]
+window	Maeda	3	1	:*	470a,178x51,0,0[178x29,0,0,5,178x21,0,30,6]
+window	OSS	1	1	:*	3a05,318x83,0,0[318x50,0,0,7,318x32,0,51{154x32,0,51,8,163x32,155,51,77}]
+window	OSS	2	0	: 	06e8,318x83,0,0[318x41,0,0,9,318x41,0,42,10]
+window	OSS	3	0	: 	61b0,318x83,0,0,11
+window	OSS	4	0	: 	10c0,318x83,0,0[318x42,0,0,12,318x40,0,43,13]
+window	OSS	5	0	: 	e76d,318x83,0,0[318x42,0,0,14,318x40,0,43{159x40,0,43,15,158x40,160,43,16}]
+window	OSS	6	0	: 	61b6,318x83,0,0,17
+window	OSS	7	0	:-	3f49,318x83,0,0[318x41,0,0,78,318x41,0,42,80]
+window	TED	1	0	: 	d1d5,178x51,0,0[178x28,0,0{89x28,0,0,18,88x28,90,0,19},178x22,0,29,20]
+window	TED	2	0	: 	b1ae,178x51,0,0[178x23,0,0,21,178x27,0,24{89x27,0,24,22,88x27,90,24,23}]
+window	TED	3	0	: 	600b,178x51,0,0[178x28,0,0,24,178x22,0,29,25]
+window	TED	4	0	: 	d73d,178x51,0,0[178x28,0,0,26,178x22,0,29{89x22,0,29,27,88x22,90,29,28}]
+window	TED	5	0	:-	6efc,178x51,0,0[178x32,0,0,29,178x18,0,33{89x18,0,33,30,88x18,90,33,31}]
+window	TED	6	0	: 	a2d8,178x51,0,0{89x51,0,0[89x25,0,0,32,89x25,0,26,33],88x51,90,0[88x28,90,0,34,88x22,90,29,35]}
+window	TED	7	1	:*	5b56,178x51,0,0,36
+window	TED-projects	1	0	: 	62d0,178x51,0,0[178x34,0,0,37,178x16,0,35,38]
+window	TED-projects	2	0	: 	a533,178x51,0,0[178x16,0,0,39,178x34,0,17{89x34,0,17,40,88x34,90,17,41}]
+window	TED-projects	3	0	: 	a2c9,178x51,0,0[178x34,0,0,42,178x16,0,35,43]
+window	TED-projects	4	0	:-	ab8c,178x51,0,0[178x25,0,0,44,178x25,0,26,45]
+window	TED-projects	5	1	:*	db56,178x51,0,0,46
+window	apps	1	0	: 	b7fe,178x51,0,0{89x51,0,0,47,88x51,90,0,48}
+window	apps	2	0	: 	6855,178x51,0,0[178x29,0,0{89x29,0,0,49,88x29,90,0,50},178x21,0,30{84x21,0,30,51,93x21,85,30,52}]
+window	apps	3	0	: 	eb8b,178x51,0,0[178x25,0,0,53,178x25,0,26,54]
+window	apps	4	0	: 	eb8e,178x51,0,0[178x25,0,0,55,178x25,0,26,56]
+window	apps	5	1	:*	5b58,178x51,0,0,57
+window	apps	6	0	:-	5a13,178x51,0,0[178x24,0,0,58,178x26,0,25,59]
+window	base	1	1	:*	db51,178x51,0,0,60
+window	collectrium	1	1	:*	0c35,178x51,0,0[178x26,0,0,61,178x24,0,27{84x24,0,27,62,93x24,85,27,63}]
+window	collectrium	2	0	:-	073f,178x51,0,0[178x31,0,0,64,178x19,0,32{89x19,0,32,65,88x19,90,32,66}]
+window	ember-map	1	1	:*	5812,178x51,0,0[178x30,0,0,67,178x20,0,31,68]
+window	ember-map	2	0	:-	9990,178x51,0,0[178x29,0,0,69,178x21,0,30,70]
+window	ember-map	3	0	: 	5a0a,178x51,0,0[178x24,0,0,71,178x26,0,25,72]
+window	ember-map	5	0	: 	5b55,178x51,0,0,73
+window	nimble	1	1	:*	980e,178x51,0,0[178x30,0,0,74,178x20,0,31,75]
+state	OSS	OSS

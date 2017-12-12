@@ -1,0 +1,74 @@
+pane	OSS	1	:talks	0	:#	1	:/Users/SamSelikoff/Projects/talks/6-nov2014-lightening-react	1	zsh	:
+pane	OSS	1	:talks	0	:#	2	:/Users/SamSelikoff/Projects/talks	0	zsh	:
+pane	OSS	2	:samselikoff	0	:-	1	:/Users/SamSelikoff/Projects/samselikoff	1	zsh	:
+pane	OSS	2	:samselikoff	0	:-	2	:/Users/SamSelikoff/Projects/samselikoff	0	zsh	:
+pane	OSS	3	:list-view	1	:*	1	:/Users/SamSelikoff/Projects/github/list-view	0	ruby	:ruby /Users/SamSelikoff/.rvm/gems/ruby-2.1.1/bin/jekyll serve -w AWS_ACCESS_KEY_ID=AKIAII6CHRNKAA3UUPGA AWS_SECRET_ACCESS_KEY=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 Apple_PubSub_Socket_Render=/tmp/launch-ikGhlU/Render COLORFGBG=12;8
+pane	OSS	3	:list-view	1	:*	2	:/Users/SamSelikoff/Projects/github/list-view	1	zsh	:
+pane	OSS	3	:list-view	1	:*	3	:/Users/SamSelikoff/Projects/github/list-view	0	zsh	:
+pane	OSS	4	:ember-website	0	:#	1	:/Users/SamSelikoff/Projects/github/ember/website	1	zsh	:
+pane	OSS	5	:ember-cli-pagination	0	:#	1	:/Users/SamSelikoff/Projects/github/ember-cli-pagination	1	zsh	:
+pane	OSS	5	:ember-cli-pagination	0	:#	2	:/Users/SamSelikoff/Projects/github/ember-cli-pagination	0	zsh	:
+pane	OSS	6	:EmberAdmin	0	:#	1	:/Users/SamSelikoff/Projects/github/ember-admin-bootstrap	1	zsh	:
+pane	OSS	6	:EmberAdmin	0	:#	2	:/Users/SamSelikoff/Projects/github/ember-admin-bootstrap	0	zsh	:
+pane	OSS	7	:ember-deploy	0	:#	1	:/Users/SamSelikoff/Projects/github/ember-deploy	1	zsh	:
+pane	OSS	8	:accounting-app	0	: 	1	:/Users/SamSelikoff/Projects/accounting-app	1	zsh	:
+pane	OSS	8	:accounting-app	0	: 	2	:/Users/SamSelikoff/Projects/accounting-app	0	zsh	:
+pane	OSS	9	:ic-tabs	0	:#	1	:/Users/SamSelikoff/Projects/ic-tabs	1	zsh	:
+pane	OSS	10	:ember-responsive	0	:#	1	:/Users/SamSelikoff/Projects/github/ember-responsive	1	zsh	:
+pane	TED-apps	1	:Roadrunner	0	:#	1	:/Users/SamSelikoff/TED/roadrunner	1	zsh	:
+pane	TED-apps	2	:Hoover	0	:#	1	:/Users/SamSelikoff/TED/hoover/ember	0	zsh	:
+pane	TED-apps	2	:Hoover	0	:#	2	:/Users/SamSelikoff/TED/hoover	1	zsh	:
+pane	TED-apps	2	:Hoover	0	:#	3	:/Users/SamSelikoff/TED/hoover/node	0	zsh	:
+pane	TED-apps	2	:Hoover	0	:#	4	:/Users/SamSelikoff/TED/hoover/rails	0	zsh	:
+pane	TED-apps	3	:TED Ed	0	:#	1	:/Users/SamSelikoff/TED/TEDEd	0	zsh	:
+pane	TED-apps	3	:TED Ed	0	:#	2	:/Users/SamSelikoff/TED/TEDEd	1	zsh	:
+pane	TED-apps	3	:TED Ed	0	:#	3	:/Users/SamSelikoff/TED/TEDEd	0	zsh	:
+pane	TED-apps	4	:ted-ed-lesson-creator	1	:*	1	:/Users/SamSelikoff/TED/ted-ed-lesson-creator	1	zsh	:
+pane	TED-apps	4	:ted-ed-lesson-creator	1	:*	2	:/Users/SamSelikoff/TED/ted-ed-lesson-creator	0	zsh	:
+pane	TED-apps	5	:CDS	0	:#-	1	:/Users/SamSelikoff/TED/cds_data	1	zsh	:
+pane	TED-apps	6	:AppleTV	0	:#	1	:/Users/SamSelikoff/TED/appletv	1	zsh	:
+pane	TED-apps	6	:AppleTV	0	:#	2	:/Users/SamSelikoff/TED/appletv	0	zsh	:
+pane	TED-apps	7	:appletv-sample-site	0	:#	1	:/Users/SamSelikoff/TED/appletv-sample-source/sample-xml	1	zsh	:
+pane	TED-apps	7	:appletv-sample-site	0	:#	2	:/Users/SamSelikoff/TED/appletv-sam-sample	0	Python	:/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python -m SimpleHTTPServer 8000
+pane	TED-projects	1	:front_end_builds	0	: 	1	:/Users/SamSelikoff/TED/front_end_builds/spec/dummy	0	zsh	:
+pane	TED-projects	1	:front_end_builds	0	: 	2	:/Users/SamSelikoff/TED/front_end_builds/spec/dummy	1	zsh	:
+pane	TED-projects	1	:front_end_builds	0	: 	3	:/Users/SamSelikoff/TED/front_end_builds	0	zsh	:
+pane	TED-projects	1	:front_end_builds	0	: 	4	:/Users/SamSelikoff/TED/front_end_builds/admin	0	zsh	:
+pane	TED-projects	2	:ember-cli-ted-bootstrap	0	: 	1	:/Users/SamSelikoff/TED/ember-cli-ted-bootstrap	1	zsh	:
+pane	TED-projects	3	:ember-cli-static-deploy	0	:-	1	:/Users/SamSelikoff/TED/ember-cli-front-end-builds	1	zsh	:
+pane	TED-projects	4	:org-chart	1	:*	1	:/Users/SamSelikoff/TED/org-chart	0	zsh	:
+pane	TED-projects	4	:org-chart	1	:*	2	:/Users/SamSelikoff/TED/org-chart	1	zsh	:
+pane	feb	1	:front_end_builds	0	: 	1	:/Users/SamSelikoff/TED/front_end_builds/spec/dummy	1	zsh	:
+pane	feb	1	:front_end_builds	0	: 	2	:/Users/SamSelikoff/TED/front_end_builds	0	zsh	:
+pane	feb	1	:front_end_builds	0	: 	3	:/Users/SamSelikoff/TED/front_end_builds/admin	0	zsh	:
+pane	feb	1	:front_end_builds	0	: 	4	:/Users/SamSelikoff/TED/front_end_builds	0	zsh	:
+pane	feb	2	:ember-cli-front-end-builds	0	: 	1	:/Users/SamSelikoff/TED/ember-cli-front-end-builds	1	zsh	:
+pane	feb	3	:ted-ed-lesson-creator	0	:-	1	:/Users/SamSelikoff/TED/ted-ed-lesson-creator	1	zsh	:
+pane	feb	4	:TED Ed	1	:*	1	:/Users/SamSelikoff/TED/TEDEd	1	zsh	:
+pane	feb	4	:TED Ed	1	:*	2	:/Users/SamSelikoff/TED/TEDEd	0	zsh	:
+window	OSS	1	0	:#	5dde,204x58,0,0[204x29,0,0,1,204x28,0,30,2]
+window	OSS	2	0	:-	5de3,204x58,0,0[204x29,0,0,3,204x28,0,30,4]
+window	OSS	3	1	:*	ce9d,204x58,0,0[204x29,0,0,5,204x28,0,30{102x28,0,30,6,101x28,103,30,7}]
+window	OSS	4	0	:#	cea5,204x58,0,0,8
+window	OSS	5	0	:#	6f3d,204x58,0,0[204x29,0,0,9,204x28,0,30,10]
+window	OSS	6	0	:#	20c3,204x58,0,0[204x29,0,0,11,204x28,0,30,12]
+window	OSS	7	0	:#	6782,204x58,0,0,13
+window	OSS	8	0	: 	5ac9,204x58,0,0{102x58,0,0,14,101x58,103,0,15}
+window	OSS	9	0	:#	6785,204x58,0,0,54
+window	OSS	10	0	:#	6786,204x58,0,0,55
+window	TED-apps	1	0	:#	6785,204x58,0,0,16
+window	TED-apps	2	0	:#	a1ee,204x58,0,0{97x58,0,0[97x28,0,0,17,97x29,0,29,18],106x58,98,0[106x28,98,0,19,106x29,98,29,20]}
+window	TED-apps	3	0	:#	eefa,204x58,0,0{102x58,0,0[102x29,0,0,21,102x28,0,30,22],101x58,103,0,23}
+window	TED-apps	4	1	:*	5f48,204x58,0,0[204x30,0,0,24,204x27,0,31,25]
+window	TED-apps	5	0	:#-	e785,204x58,0,0,26
+window	TED-apps	6	0	:#	e0cc,204x58,0,0[204x29,0,0,27,204x28,0,30,28]
+window	TED-apps	7	0	:#	1847,204x58,0,0{107x58,0,0,29,96x58,108,0,30}
+window	TED-projects	1	0	: 	5056,204x58,0,0[204x29,0,0{97x29,0,0,31,106x29,98,0,32},204x28,0,30{97x28,0,30,33,106x28,98,30,34}]
+window	TED-projects	2	0	: 	6785,204x58,0,0,35
+window	TED-projects	3	0	:-	6786,204x58,0,0,36
+window	TED-projects	4	1	:*	a0cd,204x58,0,0[204x29,0,0,37,204x28,0,30,38]
+window	feb	1	0	: 	6265,204x58,0,0{102x58,0,0[102x29,0,0,39,102x28,0,30,40],101x58,103,0[101x29,103,0,41,101x28,103,30,47]}
+window	feb	2	0	: 	e782,204x58,0,0,42
+window	feb	3	0	:-	e783,204x58,0,0,43
+window	feb	4	1	:*	5f4b,204x58,0,0[204x30,0,0,44,204x27,0,31,48]
+state	OSS	OSS

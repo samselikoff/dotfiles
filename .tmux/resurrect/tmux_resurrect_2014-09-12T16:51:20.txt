@@ -1,0 +1,13 @@
+pane	OSS	1	:talks	1	:*	1	:/Users/SamSelikoff/Projects/talks/5-sep2014-intro-ember/budgetr	0	zsh	:
+pane	OSS	1	:talks	1	:*	2	:/Users/SamSelikoff/Projects/talks	1	zsh	:
+pane	OSS	2	:samselikoff	0	:-	1	:/Users/SamSelikoff/Projects/samselikoff	1	zsh	:
+pane	TED	1	:Roadrunner	0	:#-	1	:/Users/SamSelikoff/TED/roadrunner	1	zsh	:
+pane	TED	1	:Roadrunner	0	:#-	2	:/Users/SamSelikoff/TED/roadrunner	0	zsh	:
+pane	TED	2	:Hoover	1	:*	1	:/Users/SamSelikoff/TED/hoover/node	1	zsh	:
+pane	TED	2	:Hoover	1	:*	2	:/Users/SamSelikoff/TED/hoover/ember	0	node	:ember AWS_ACCESS_KEY_ID=AKIAII6CHRNKAA3UUPGA AWS_SECRET_ACCESS_KEY=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 Apple_PubSub_Socket_Render=/tmp/launch-590aLG/Render COLORFGBG=12;8
+pane	TED	2	:Hoover	1	:*	3	:/Users/SamSelikoff/TED/hoover/ember	0	zsh	:
+window	OSS	1	1	:*	71ab,364x94,0,0{162x94,0,0,18,201x94,163,0,21}
+window	OSS	2	0	:-	c842,364x94,0,0,5
+window	TED	1	0	:#-	d847,283x74,0,0{141x74,0,0,1,141x74,142,0,13}
+window	TED	2	1	:*	ec3d,283x74,0,0{126x74,0,0,2,156x74,127,0[156x36,127,0,3,156x37,127,37,12]}
+state	TED	OSS

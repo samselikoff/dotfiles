@@ -1,0 +1,26 @@
+pane	0	1	:reattach-to-user-namespace	1	:*	1	:/Users/SamSelikoff/Projects	1	zsh	:
+pane	OSS	1	:talks	0	:#	1	:/Users/SamSelikoff/Projects/talks	1	zsh	:
+pane	OSS	2	:samselikoff	0	:#	1	:/Users/SamSelikoff/Projects/samselikoff	0	zsh	:
+pane	OSS	2	:samselikoff	0	:#	2	:/Users/SamSelikoff/Projects/samselikoff	1	zsh	:
+pane	OSS	3	:list-view	1	:*	1	:/Users/SamSelikoff/Projects/github/list-view	0	zsh	:
+pane	OSS	3	:list-view	1	:*	2	:/Users/SamSelikoff/Projects/github/list-view	1	zsh	:
+pane	OSS	3	:list-view	1	:*	3	:/Users/SamSelikoff/Projects/github/list-view	0	zsh	:
+pane	OSS	4	:ember-website	0	:#-	1	:/Users/SamSelikoff/Projects/github/ember/website	1	zsh	:
+pane	TED	1	:Roadrunner	0	:#	1	:/Users/SamSelikoff/TED/roadrunner	1	zsh	:
+pane	TED	1	:Roadrunner	0	:#	2	:/Users/SamSelikoff/TED/roadrunner	0	zsh	:
+pane	TED	2	:Hoover	1	:*	1	:/Users/SamSelikoff/TED/hoover/ember	0	zsh	:
+pane	TED	2	:Hoover	1	:*	2	:/Users/SamSelikoff/TED/hoover/ember	0	zsh	:
+pane	TED	2	:Hoover	1	:*	3	:/Users/SamSelikoff/TED/hoover/node	1	zsh	:
+pane	TED	3	:TED Ed	0	:-	1	:/Users/SamSelikoff/TED/TEDEd	1	zsh	:
+pane	TED	3	:TED Ed	0	:-	2	:/Users/SamSelikoff/TED/TEDEd	0	zsh	:
+pane	TED	5	:master.hoover.ted.com	0	:#	1	:/Users/SamSelikoff/TED/hoover/ember	1	zsh	:
+window	0	1	1	:*	c83d,364x94,0,0,0
+window	OSS	1	0	:#	ce9e,204x58,0,0,1
+window	OSS	2	0	:#	9c0c,204x58,0,0{97x58,0,0,2,106x58,98,0,3}
+window	OSS	3	1	:*	c7a0,204x58,0,0[204x29,0,0,4,204x28,0,30{102x28,0,30,5,101x28,103,30,33}]
+window	OSS	4	0	:#-	cea3,204x58,0,0,6
+window	TED	1	0	:#	7c5a,204x58,0,0{101x58,0,0,7,102x58,102,0,8}
+window	TED	2	1	:*	960b,204x58,0,0{92x58,0,0[92x29,0,0,9,92x28,0,30,21],111x58,93,0,20}
+window	TED	3	0	:-	5ac8,204x58,0,0{102x58,0,0,13,101x58,103,0,14}
+window	TED	5	0	:#	6780,204x58,0,0,30
+state	OSS	TED
