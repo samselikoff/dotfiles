@@ -1,12 +1,11 @@
 ## New laptop setup
 
-- Install Atom
-
+- CAPS -> ESC
 - Atom setup
-  - install atom
+  - Install atom
   - Copy dotfiles
   - `apm stars --install` (needs atom apm key)
-- install iterm, omyzshell
+- install iTerm, omyzshell
 - install nvm, node
 - install rbenv
 - brew install direnv tmux reattach-to-user-namespace
