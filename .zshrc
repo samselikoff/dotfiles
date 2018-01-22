@@ -50,7 +50,6 @@ plugins+=(rails)
 plugins+=(git)
 plugins+=(ruby)
 plugins+=(bundler)
-plugins+=(zsh-nvm)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -119,22 +118,12 @@ PATH="/usr/local/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:${PAT
 PATH="$HOME/bin:${PATH}"
 export PATH=/usr/local/git/bin:$PATH
 
-[[ -s /Users/SamSelikoff/.nvm/nvm.sh ]] && . /Users/SamSelikoff/.nvm/nvm.sh # This loads NVM
-# Automatically call nvm use
-autoload -U add-zsh-hook
-load-nvmrc() {
-  if [[ -f .nvmrc && -r .nvmrc ]]; then
-    nvm use
-  elif [[ $(nvm version) != $(nvm version default)  ]]; then
-    echo "Reverting to nvm default version"
-    nvm use default
-  fi
-}
-add-zsh-hook chpwd load-nvmrc
-load-nvmrc
+# NVM
+export NVM_DIR=~/.nvm
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # Variables
-export NVM_SYMLINK_CURRENT=true
 export S3_BUCKET_NAME=turbobear
 export JAVA_HOME="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home"
 
