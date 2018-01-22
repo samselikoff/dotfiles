@@ -126,6 +126,7 @@ export NVM_DIR=~/.nvm
 # Variables
 export S3_BUCKET_NAME=turbobear
 export JAVA_HOME="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home"
+export FASTBOOT_DISABLED=true
 
 # Secret variables
 
